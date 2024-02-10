@@ -1,0 +1,1809 @@
+[2024-01-26 12:10:17] FINE [liquibase.resource] Creating resourceAccessor for directory D:\7994-RND-SQL\liquibase
+[2024-01-26 12:10:17] FINE [liquibase.configuration] No configuration value for liquibase.searchPath found
+[2024-01-26 12:10:17] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\liquibase-core.jar
+[2024-01-26 12:10:17] FINE [liquibase.resource] Creating resourceAccessor for directory C:\Program Files\liquibase\lib
+[2024-01-26 12:10:17] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\commons-collections4.jar
+[2024-01-26 12:10:17] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\commons-lang3.jar
+[2024-01-26 12:10:17] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\commons-text.jar
+[2024-01-26 12:10:17] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\h2.jar
+[2024-01-26 12:10:17] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\hsqldb.jar
+[2024-01-26 12:10:17] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\jaxb-api.jar
+[2024-01-26 12:10:17] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\jaxb-core.jar
+[2024-01-26 12:10:17] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\jaxb-runtime.jar
+[2024-01-26 12:10:17] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\jaybird.jar
+[2024-01-26 12:10:17] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\jcc.jar
+[2024-01-26 12:10:17] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\liquibase-commercial.jar
+[2024-01-26 12:10:17] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\mariadb-java-client.jar
+[2024-01-26 12:10:17] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\mssql-jdbc.jar
+[2024-01-26 12:10:17] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\ojdbc8.jar
+[2024-01-26 12:10:17] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\opencsv.jar
+[2024-01-26 12:10:17] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\picocli.jar
+[2024-01-26 12:10:17] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\postgresql.jar
+[2024-01-26 12:10:17] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\snakeyaml.jar
+[2024-01-26 12:10:17] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\snowflake-jdbc.jar
+[2024-01-26 12:10:17] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\sqlite-jdbc.jar
+[2024-01-26 12:10:17] FINE [liquibase.resource] Creating resourceAccessor for directory C:\Program Files\liquibase\internal\lib
+[2024-01-26 12:10:17] FINE [liquibase.resource] Overall search path: 
+  - D:\7994-RND-SQL\liquibase
+  - C:\Program Files\liquibase\internal\lib\liquibase-core.jar
+  - C:\Program Files\liquibase\lib
+  - C:\Program Files\liquibase\internal\lib\commons-collections4.jar
+  - C:\Program Files\liquibase\internal\lib\commons-lang3.jar
+  - C:\Program Files\liquibase\internal\lib\commons-text.jar
+  - C:\Program Files\liquibase\internal\lib\h2.jar
+  - C:\Program Files\liquibase\internal\lib\hsqldb.jar
+  - C:\Program Files\liquibase\internal\lib\jaxb-api.jar
+  - C:\Program Files\liquibase\internal\lib\jaxb-core.jar
+  - C:\Program Files\liquibase\internal\lib\jaxb-runtime.jar
+  - C:\Program Files\liquibase\internal\lib\jaybird.jar
+  - C:\Program Files\liquibase\internal\lib\jcc.jar
+  - C:\Program Files\liquibase\internal\lib\liquibase-commercial.jar
+  - C:\Program Files\liquibase\internal\lib\mariadb-java-client.jar
+  - C:\Program Files\liquibase\internal\lib\mssql-jdbc.jar
+  - C:\Program Files\liquibase\internal\lib\ojdbc8.jar
+  - C:\Program Files\liquibase\internal\lib\opencsv.jar
+  - C:\Program Files\liquibase\internal\lib\picocli.jar
+  - C:\Program Files\liquibase\internal\lib\postgresql.jar
+  - C:\Program Files\liquibase\internal\lib\snakeyaml.jar
+  - C:\Program Files\liquibase\internal\lib\snowflake-jdbc.jar
+  - C:\Program Files\liquibase\internal\lib\sqlite-jdbc.jar
+  - C:\Program Files\liquibase\internal\lib
+[2024-01-26 12:10:17] FINE [liquibase.configuration] No configuration value for liquibase.uiService found
+[2024-01-26 12:10:17] FINE [liquibase.configuration] Configuration liquibase.uiService is using the default value of CONSOLE
+[2024-01-26 12:10:17] FINE [liquibase.configuration] No configuration value for liquibase.mirrorConsoleMessagesToLog found
+[2024-01-26 12:10:17] FINE [liquibase.configuration] Configuration liquibase.mirrorConsoleMessagesToLog is using the default value of true
+[2024-01-26 12:10:17] FINE [liquibase.configuration] No configuration value for liquibase.shouldRun aka should.run found
+[2024-01-26 12:10:17] FINE [liquibase.configuration] Configuration liquibase.shouldRun is using the default value of true
+[2024-01-26 12:10:17] FINE [liquibase.configuration] No configuration value for liquibase.showBanner found
+[2024-01-26 12:10:17] FINE [liquibase.configuration] Configuration liquibase.showBanner is using the default value of true
+[2024-01-26 12:10:17] INFO [liquibase.ui] ####################################################
+##   _     _             _ _                      ##
+##  | |   (_)           (_) |                     ##
+##  | |    _  __ _ _   _ _| |__   __ _ ___  ___   ##
+##  | |   | |/ _` | | | | | '_ \ / _` / __|/ _ \  ##
+##  | |___| | (_| | |_| | | |_) | (_| \__ \  __/  ##
+##  \_____/_|\__, |\__,_|_|_.__/ \__,_|___/\___|  ##
+##              | |                               ##
+##              |_|                               ##
+##                                                ## 
+##  Get documentation at docs.liquibase.com       ##
+##  Get certified courses at learn.liquibase.com  ## 
+##                                                ##
+####################################################
+Starting Liquibase at 12:10:17 (version 4.25.1 #690 built at 2023-12-18 16:29+0000)
+[2024-01-26 12:10:17] INFO [liquibase.ui] Liquibase Version: 4.25.1
+[2024-01-26 12:10:17] INFO [liquibase.ui] Liquibase Open Source 4.25.1 by Liquibase
+[2024-01-26 12:10:17] FINE [liquibase.configuration] No configuration value for liquibase.monitorPerformance found
+[2024-01-26 12:10:17] FINE [liquibase.configuration] Configuration liquibase.monitorPerformance is using the default value of false
+[2024-01-26 12:10:17] FINE [liquibase.integration] Performance monitoring disabled
+[2024-01-26 12:10:17] INFO [liquibase.integration] Starting command execution.
+[2024-01-26 12:10:17] FINE [liquibase.configuration] No configuration value for liquibase.outputFile found
+[2024-01-26 12:10:17] FINE [liquibase.configuration] No configuration value for liquibase.strict found
+[2024-01-26 12:10:17] FINE [liquibase.configuration] Configuration liquibase.strict is using the default value of false
+[2024-01-26 12:10:17] FINE [liquibase.configuration] No configuration value for liquibase.command.status.changelogFile found
+[2024-01-26 12:10:17] FINE [liquibase.configuration] Found 'liquibase.command.changelogFile' configuration of 'example-changeLog.sql'
+    command argument '--changelog-file' of 'example-changeLog.sql'
+    Overrides file exists at path liquibase.properties 'changeLogFile' of 'example-changelog.xml'
+[2024-01-26 12:10:17] FINE [liquibase.configuration] No configuration value for liquibase.command.status.changelogParameters found
+[2024-01-26 12:10:17] FINE [liquibase.configuration] No configuration value for liquibase.command.changelogParameters found
+[2024-01-26 12:10:17] FINE [liquibase.configuration] No configuration value for liquibase.command.status.contextFilter aka liquibase.command.status.contexts found
+[2024-01-26 12:10:17] FINE [liquibase.configuration] No configuration value for liquibase.command.contextFilter aka liquibase.command.contexts found
+[2024-01-26 12:10:17] FINE [liquibase.configuration] No configuration value for liquibase.command.status.database found
+[2024-01-26 12:10:17] FINE [liquibase.configuration] No configuration value for liquibase.command.database found
+[2024-01-26 12:10:17] FINE [liquibase.configuration] No configuration value for liquibase.command.status.databaseChangelog found
+[2024-01-26 12:10:17] FINE [liquibase.configuration] No configuration value for liquibase.command.databaseChangelog found
+[2024-01-26 12:10:17] FINE [liquibase.configuration] No configuration value for liquibase.command.status.defaultCatalogName found
+[2024-01-26 12:10:17] FINE [liquibase.configuration] No configuration value for liquibase.command.defaultCatalogName found
+[2024-01-26 12:10:17] FINE [liquibase.configuration] No configuration value for liquibase.command.status.defaultSchemaName found
+[2024-01-26 12:10:17] FINE [liquibase.configuration] No configuration value for liquibase.command.defaultSchemaName found
+[2024-01-26 12:10:17] FINE [liquibase.configuration] No configuration value for liquibase.command.status.driver found
+[2024-01-26 12:10:17] FINE [liquibase.configuration] No configuration value for liquibase.command.driver found
+[2024-01-26 12:10:17] FINE [liquibase.configuration] No configuration value for liquibase.command.status.driverPropertiesFile found
+[2024-01-26 12:10:17] FINE [liquibase.configuration] No configuration value for liquibase.command.driverPropertiesFile found
+[2024-01-26 12:10:17] FINE [liquibase.configuration] No configuration value for liquibase.command.status.labelFilter aka liquibase.command.status.labels found
+[2024-01-26 12:10:17] FINE [liquibase.configuration] No configuration value for liquibase.command.labelFilter aka liquibase.command.labels found
+[2024-01-26 12:10:17] FINE [liquibase.configuration] No configuration value for liquibase.command.status.password found
+[2024-01-26 12:10:17] FINE [liquibase.configuration] Found 'liquibase.command.password' configuration of '*****'
+    command argument '--password' of '*****'
+    Overrides file exists at path liquibase.properties 'liquibase.command.password' of '*****'
+[2024-01-26 12:10:17] FINE [liquibase.configuration] No configuration value for liquibase.command.status.skipDatabaseStep found
+[2024-01-26 12:10:17] FINE [liquibase.configuration] Configuration liquibase.command.status.skipDatabaseStep is using the default value of false
+[2024-01-26 12:10:17] FINE [liquibase.configuration] No configuration value for liquibase.command.skipDatabaseStep found
+[2024-01-26 12:10:17] FINE [liquibase.configuration] Configuration liquibase.command.skipDatabaseStep is using the default value of false
+[2024-01-26 12:10:17] FINE [liquibase.configuration] No configuration value for liquibase.command.status.updateNullChecksums found
+[2024-01-26 12:10:17] FINE [liquibase.configuration] Configuration liquibase.command.status.updateNullChecksums is using the default value of false
+[2024-01-26 12:10:17] FINE [liquibase.configuration] No configuration value for liquibase.command.updateNullChecksums found
+[2024-01-26 12:10:17] FINE [liquibase.configuration] Configuration liquibase.command.updateNullChecksums is using the default value of false
+[2024-01-26 12:10:17] FINE [liquibase.configuration] No configuration value for liquibase.command.status.url found
+[2024-01-26 12:10:17] FINE [liquibase.servicelocator] Loaded liquibase.database.jvm.ConnectionPatterns instance liquibase.database.jvm.JdbcConnectionPatterns
+[2024-01-26 12:10:17] FINE [liquibase.configuration] Found 'liquibase.command.url' configuration of 'jdbc:sqlserver://DESKTOP-F22LNIE;portNumber=1433;databaseName=test;integratedSecurity=true;Encrypt=false;'
+    file exists at path liquibase.properties 'liquibase.command.url' of '*****'
+[2024-01-26 12:10:17] FINE [liquibase.configuration] No configuration value for liquibase.command.status.username found
+[2024-01-26 12:10:17] FINE [liquibase.configuration] Found 'liquibase.command.username' configuration of 'sa'
+    command argument '--username' of 'sa'
+    Overrides file exists at path liquibase.properties 'liquibase.command.username' of 'sa'
+[2024-01-26 12:10:17] FINE [liquibase.configuration] No configuration value for liquibase.command.status.verbose found
+[2024-01-26 12:10:17] FINE [liquibase.configuration] Configuration liquibase.command.status.verbose is using the default value of true
+[2024-01-26 12:10:17] FINE [liquibase.configuration] No configuration value for liquibase.command.verbose found
+[2024-01-26 12:10:17] FINE [liquibase.configuration] Configuration liquibase.command.verbose is using the default value of true
+[2024-01-26 12:10:17] FINE [liquibase.command] Pipeline for command 'status: liquibase.command.core.helpers.DbUrlConnectionArgumentsCommandStep then liquibase.command.core.helpers.DbUrlConnectionCommandStep then liquibase.command.core.helpers.DatabaseChangelogCommandStep then liquibase.command.core.StatusCommandStep
+[2024-01-26 12:10:17] FINE [liquibase.configuration] No configuration value for liquibase.outputFileEncoding found
+[2024-01-26 12:10:17] FINE [liquibase.configuration] Configuration liquibase.outputFileEncoding is using the default value of UTF-8
+[2024-01-26 12:10:17] FINE [liquibase.command] Writing output with encoding 'UTF-8'
+[2024-01-26 12:10:17] FINE [liquibase.command] Executing internal command dbUrlConnectionArguments
+[2024-01-26 12:10:17] FINE [liquibase.command] Executing internal command dbUrlConnectionCommandStep
+[2024-01-26 12:10:17] FINE [liquibase.configuration] Configuration liquibase.command.status.skipDatabaseStep is using the default value of false
+[2024-01-26 12:10:17] FINE [liquibase.configuration] Configuration liquibase.command.skipDatabaseStep is using the default value of false
+[2024-01-26 12:10:17] FINE [liquibase.configuration] No configuration value for liquibase.liquibaseCatalogName aka liquibase.catalogName found
+[2024-01-26 12:10:17] FINE [liquibase.configuration] No configuration value for liquibase.liquibaseSchemaName aka liquibase.schemaName found
+[2024-01-26 12:10:17] FINE [liquibase.configuration] No configuration value for liquibase.databaseClass found
+[2024-01-26 12:10:17] FINE [liquibase.configuration] No configuration value for liquibase.propertyProviderClass found
+[2024-01-26 12:10:17] FINE [liquibase.configuration] No configuration value for liquibase.liquibaseTablespaceName aka liquibase.databaseChangeLogTablespaceName aka liquibase.liquibaseTableSpaceName found
+[2024-01-26 12:10:17] FINE [liquibase.configuration] No configuration value for liquibase.databaseChangelogLockTableName aka liquibase.databaseChangeLogLockTableName found
+[2024-01-26 12:10:17] FINE [liquibase.configuration] Configuration liquibase.databaseChangelogLockTableName is using the default value of DATABASECHANGELOGLOCK
+[2024-01-26 12:10:17] FINE [liquibase.configuration] No configuration value for liquibase.databaseChangelogTableName aka liquibase.databaseChangeLogTableName found
+[2024-01-26 12:10:17] FINE [liquibase.configuration] Configuration liquibase.databaseChangelogTableName is using the default value of DATABASECHANGELOG
+[2024-01-26 12:10:17] FINE [liquibase.database] Properties:
+[2024-01-26 12:10:17] FINE [liquibase.database] Key:'password' Value:'**********'
+[2024-01-26 12:10:17] FINE [liquibase.database] Key:'user' Value:'sa'
+[2024-01-26 12:10:17] FINE [liquibase.database] Connecting to the URL:'jdbc:sqlserver://DESKTOP-F22LNIE;portNumber=1433;databaseName=test;integratedSecurity=true;Encrypt=false;' using driver:'com.microsoft.sqlserver.jdbc.SQLServerDriver'
+[2024-01-26 12:10:17] FINE [liquibase.servicelocator] Loaded liquibase.database.DatabaseConnection instance liquibase.database.jvm.JdbcConnection
+[2024-01-26 12:10:17] FINE [liquibase.servicelocator] Loaded liquibase.database.DatabaseConnection instance com.datical.liquibase.ext.database.jvm.ProJdbcConnection
+[2024-01-26 12:10:47] INFO [liquibase.command] Command execution complete
+[2024-01-26 12:10:47] SEVERE [liquibase.integration] class java.lang.UnsatisfiedLinkError cannot be cast to class java.lang.Exception (java.lang.UnsatisfiedLinkError and java.lang.Exception are in module java.base of loader 'bootstrap')
+liquibase.exception.CommandExecutionException: java.lang.ClassCastException: class java.lang.UnsatisfiedLinkError cannot be cast to class java.lang.Exception (java.lang.UnsatisfiedLinkError and java.lang.Exception are in module java.base of loader 'bootstrap')
+	at liquibase.command.CommandScope.execute(CommandScope.java:253)
+	at liquibase.integration.commandline.CommandRunner.call(CommandRunner.java:55)
+	at liquibase.integration.commandline.CommandRunner.call(CommandRunner.java:24)
+	at picocli.CommandLine.executeUserObject(CommandLine.java:2041)
+	at picocli.CommandLine.access$1500(CommandLine.java:148)
+	at picocli.CommandLine$RunLast.executeUserObjectOfLastSubcommandWithSameParent(CommandLine.java:2461)
+	at picocli.CommandLine$RunLast.handle(CommandLine.java:2453)
+	at picocli.CommandLine$RunLast.handle(CommandLine.java:2415)
+	at picocli.CommandLine$AbstractParseResultHandler.execute(CommandLine.java:2273)
+	at picocli.CommandLine$RunLast.execute(CommandLine.java:2417)
+	at picocli.CommandLine.execute(CommandLine.java:2170)
+	at liquibase.integration.commandline.LiquibaseCommandLine.lambda$execute$2(LiquibaseCommandLine.java:391)
+	at liquibase.Scope.child(Scope.java:195)
+	at liquibase.Scope.child(Scope.java:171)
+	at liquibase.integration.commandline.LiquibaseCommandLine.lambda$execute$3(LiquibaseCommandLine.java:366)
+	at liquibase.Scope.child(Scope.java:195)
+	at liquibase.Scope.child(Scope.java:171)
+	at liquibase.integration.commandline.LiquibaseCommandLine.execute(LiquibaseCommandLine.java:363)
+	at liquibase.integration.commandline.LiquibaseCommandLine.main(LiquibaseCommandLine.java:103)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at liquibase.integration.commandline.LiquibaseLauncher.main(LiquibaseLauncher.java:116)
+Caused by: java.lang.ClassCastException: class java.lang.UnsatisfiedLinkError cannot be cast to class java.lang.Exception (java.lang.UnsatisfiedLinkError and java.lang.Exception are in module java.base of loader 'bootstrap')
+	at liquibase.command.CommandScope.logPrimaryExceptionToMdc(CommandScope.java:287)
+	at liquibase.command.CommandScope.execute(CommandScope.java:245)
+	... 23 more
+
+[2024-01-26 12:10:47] INFO [liquibase.ui] Logs saved to liquibase.log
+[2024-01-26 12:17:22] FINE [liquibase.resource] Creating resourceAccessor for directory D:\7994-RND-SQL\liquibase
+[2024-01-26 12:17:22] FINE [liquibase.configuration] No configuration value for liquibase.searchPath found
+[2024-01-26 12:17:22] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\liquibase-core.jar
+[2024-01-26 12:17:22] FINE [liquibase.resource] Creating resourceAccessor for directory C:\Program Files\liquibase\lib
+[2024-01-26 12:17:22] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\commons-collections4.jar
+[2024-01-26 12:17:22] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\commons-lang3.jar
+[2024-01-26 12:17:22] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\commons-text.jar
+[2024-01-26 12:17:22] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\h2.jar
+[2024-01-26 12:17:22] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\hsqldb.jar
+[2024-01-26 12:17:22] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\jaxb-api.jar
+[2024-01-26 12:17:22] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\jaxb-core.jar
+[2024-01-26 12:17:22] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\jaxb-runtime.jar
+[2024-01-26 12:17:22] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\jaybird.jar
+[2024-01-26 12:17:22] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\jcc.jar
+[2024-01-26 12:17:22] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\liquibase-commercial.jar
+[2024-01-26 12:17:22] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\mariadb-java-client.jar
+[2024-01-26 12:17:22] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\mssql-jdbc.jar
+[2024-01-26 12:17:22] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\ojdbc8.jar
+[2024-01-26 12:17:22] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\opencsv.jar
+[2024-01-26 12:17:22] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\picocli.jar
+[2024-01-26 12:17:22] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\postgresql.jar
+[2024-01-26 12:17:22] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\snakeyaml.jar
+[2024-01-26 12:17:22] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\snowflake-jdbc.jar
+[2024-01-26 12:17:22] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\sqlite-jdbc.jar
+[2024-01-26 12:17:22] FINE [liquibase.resource] Creating resourceAccessor for directory C:\Program Files\liquibase\internal\lib
+[2024-01-26 12:17:22] FINE [liquibase.resource] Overall search path: 
+  - D:\7994-RND-SQL\liquibase
+  - C:\Program Files\liquibase\internal\lib\liquibase-core.jar
+  - C:\Program Files\liquibase\lib
+  - C:\Program Files\liquibase\internal\lib\commons-collections4.jar
+  - C:\Program Files\liquibase\internal\lib\commons-lang3.jar
+  - C:\Program Files\liquibase\internal\lib\commons-text.jar
+  - C:\Program Files\liquibase\internal\lib\h2.jar
+  - C:\Program Files\liquibase\internal\lib\hsqldb.jar
+  - C:\Program Files\liquibase\internal\lib\jaxb-api.jar
+  - C:\Program Files\liquibase\internal\lib\jaxb-core.jar
+  - C:\Program Files\liquibase\internal\lib\jaxb-runtime.jar
+  - C:\Program Files\liquibase\internal\lib\jaybird.jar
+  - C:\Program Files\liquibase\internal\lib\jcc.jar
+  - C:\Program Files\liquibase\internal\lib\liquibase-commercial.jar
+  - C:\Program Files\liquibase\internal\lib\mariadb-java-client.jar
+  - C:\Program Files\liquibase\internal\lib\mssql-jdbc.jar
+  - C:\Program Files\liquibase\internal\lib\ojdbc8.jar
+  - C:\Program Files\liquibase\internal\lib\opencsv.jar
+  - C:\Program Files\liquibase\internal\lib\picocli.jar
+  - C:\Program Files\liquibase\internal\lib\postgresql.jar
+  - C:\Program Files\liquibase\internal\lib\snakeyaml.jar
+  - C:\Program Files\liquibase\internal\lib\snowflake-jdbc.jar
+  - C:\Program Files\liquibase\internal\lib\sqlite-jdbc.jar
+  - C:\Program Files\liquibase\internal\lib
+[2024-01-26 12:17:22] FINE [liquibase.configuration] No configuration value for liquibase.uiService found
+[2024-01-26 12:17:22] FINE [liquibase.configuration] Configuration liquibase.uiService is using the default value of CONSOLE
+[2024-01-26 12:17:22] FINE [liquibase.configuration] No configuration value for liquibase.mirrorConsoleMessagesToLog found
+[2024-01-26 12:17:22] FINE [liquibase.configuration] Configuration liquibase.mirrorConsoleMessagesToLog is using the default value of true
+[2024-01-26 12:17:22] FINE [liquibase.configuration] No configuration value for liquibase.shouldRun aka should.run found
+[2024-01-26 12:17:22] FINE [liquibase.configuration] Configuration liquibase.shouldRun is using the default value of true
+[2024-01-26 12:17:22] FINE [liquibase.configuration] No configuration value for liquibase.showBanner found
+[2024-01-26 12:17:22] FINE [liquibase.configuration] Configuration liquibase.showBanner is using the default value of true
+[2024-01-26 12:17:22] INFO [liquibase.ui] ####################################################
+##   _     _             _ _                      ##
+##  | |   (_)           (_) |                     ##
+##  | |    _  __ _ _   _ _| |__   __ _ ___  ___   ##
+##  | |   | |/ _` | | | | | '_ \ / _` / __|/ _ \  ##
+##  | |___| | (_| | |_| | | |_) | (_| \__ \  __/  ##
+##  \_____/_|\__, |\__,_|_|_.__/ \__,_|___/\___|  ##
+##              | |                               ##
+##              |_|                               ##
+##                                                ## 
+##  Get documentation at docs.liquibase.com       ##
+##  Get certified courses at learn.liquibase.com  ## 
+##                                                ##
+####################################################
+Starting Liquibase at 12:17:22 (version 4.25.1 #690 built at 2023-12-18 16:29+0000)
+[2024-01-26 12:17:22] INFO [liquibase.ui] Liquibase Version: 4.25.1
+[2024-01-26 12:17:22] INFO [liquibase.ui] Liquibase Open Source 4.25.1 by Liquibase
+[2024-01-26 12:17:22] FINE [liquibase.configuration] No configuration value for liquibase.monitorPerformance found
+[2024-01-26 12:17:22] FINE [liquibase.configuration] Configuration liquibase.monitorPerformance is using the default value of false
+[2024-01-26 12:17:22] FINE [liquibase.integration] Performance monitoring disabled
+[2024-01-26 12:17:22] INFO [liquibase.integration] Starting command execution.
+[2024-01-26 12:17:23] INFO [liquibase.ui] Logs saved to liquibase.log
+[2024-01-26 12:17:23] FINE [liquibase.configuration] No configuration value for liquibase.outputFile found
+[2024-01-26 12:22:42] FINE [liquibase.resource] Creating resourceAccessor for directory D:\7994-RND-SQL\liquibase
+[2024-01-26 12:22:42] FINE [liquibase.configuration] No configuration value for liquibase.searchPath found
+[2024-01-26 12:22:42] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\liquibase-core.jar
+[2024-01-26 12:22:42] FINE [liquibase.resource] Creating resourceAccessor for directory C:\Program Files\liquibase\lib
+[2024-01-26 12:22:42] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\commons-collections4.jar
+[2024-01-26 12:22:42] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\commons-lang3.jar
+[2024-01-26 12:22:42] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\commons-text.jar
+[2024-01-26 12:22:42] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\h2.jar
+[2024-01-26 12:22:42] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\hsqldb.jar
+[2024-01-26 12:22:42] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\jaxb-api.jar
+[2024-01-26 12:22:42] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\jaxb-core.jar
+[2024-01-26 12:22:42] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\jaxb-runtime.jar
+[2024-01-26 12:22:42] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\jaybird.jar
+[2024-01-26 12:22:42] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\jcc.jar
+[2024-01-26 12:22:42] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\liquibase-commercial.jar
+[2024-01-26 12:22:42] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\mariadb-java-client.jar
+[2024-01-26 12:22:42] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\mssql-jdbc.jar
+[2024-01-26 12:22:42] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\ojdbc8.jar
+[2024-01-26 12:22:42] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\opencsv.jar
+[2024-01-26 12:22:42] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\picocli.jar
+[2024-01-26 12:22:42] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\postgresql.jar
+[2024-01-26 12:22:42] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\snakeyaml.jar
+[2024-01-26 12:22:42] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\snowflake-jdbc.jar
+[2024-01-26 12:22:42] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\sqlite-jdbc.jar
+[2024-01-26 12:22:42] FINE [liquibase.resource] Creating resourceAccessor for directory C:\Program Files\liquibase\internal\lib
+[2024-01-26 12:22:42] FINE [liquibase.resource] Overall search path: 
+  - D:\7994-RND-SQL\liquibase
+  - C:\Program Files\liquibase\internal\lib\liquibase-core.jar
+  - C:\Program Files\liquibase\lib
+  - C:\Program Files\liquibase\internal\lib\commons-collections4.jar
+  - C:\Program Files\liquibase\internal\lib\commons-lang3.jar
+  - C:\Program Files\liquibase\internal\lib\commons-text.jar
+  - C:\Program Files\liquibase\internal\lib\h2.jar
+  - C:\Program Files\liquibase\internal\lib\hsqldb.jar
+  - C:\Program Files\liquibase\internal\lib\jaxb-api.jar
+  - C:\Program Files\liquibase\internal\lib\jaxb-core.jar
+  - C:\Program Files\liquibase\internal\lib\jaxb-runtime.jar
+  - C:\Program Files\liquibase\internal\lib\jaybird.jar
+  - C:\Program Files\liquibase\internal\lib\jcc.jar
+  - C:\Program Files\liquibase\internal\lib\liquibase-commercial.jar
+  - C:\Program Files\liquibase\internal\lib\mariadb-java-client.jar
+  - C:\Program Files\liquibase\internal\lib\mssql-jdbc.jar
+  - C:\Program Files\liquibase\internal\lib\ojdbc8.jar
+  - C:\Program Files\liquibase\internal\lib\opencsv.jar
+  - C:\Program Files\liquibase\internal\lib\picocli.jar
+  - C:\Program Files\liquibase\internal\lib\postgresql.jar
+  - C:\Program Files\liquibase\internal\lib\snakeyaml.jar
+  - C:\Program Files\liquibase\internal\lib\snowflake-jdbc.jar
+  - C:\Program Files\liquibase\internal\lib\sqlite-jdbc.jar
+  - C:\Program Files\liquibase\internal\lib
+[2024-01-26 12:22:42] FINE [liquibase.configuration] No configuration value for liquibase.uiService found
+[2024-01-26 12:22:42] FINE [liquibase.configuration] Configuration liquibase.uiService is using the default value of CONSOLE
+[2024-01-26 12:22:42] FINE [liquibase.configuration] No configuration value for liquibase.mirrorConsoleMessagesToLog found
+[2024-01-26 12:22:42] FINE [liquibase.configuration] Configuration liquibase.mirrorConsoleMessagesToLog is using the default value of true
+[2024-01-26 12:22:42] FINE [liquibase.configuration] No configuration value for liquibase.shouldRun aka should.run found
+[2024-01-26 12:22:42] FINE [liquibase.configuration] Configuration liquibase.shouldRun is using the default value of true
+[2024-01-26 12:22:42] FINE [liquibase.configuration] No configuration value for liquibase.showBanner found
+[2024-01-26 12:22:42] FINE [liquibase.configuration] Configuration liquibase.showBanner is using the default value of true
+[2024-01-26 12:22:42] INFO [liquibase.ui] ####################################################
+##   _     _             _ _                      ##
+##  | |   (_)           (_) |                     ##
+##  | |    _  __ _ _   _ _| |__   __ _ ___  ___   ##
+##  | |   | |/ _` | | | | | '_ \ / _` / __|/ _ \  ##
+##  | |___| | (_| | |_| | | |_) | (_| \__ \  __/  ##
+##  \_____/_|\__, |\__,_|_|_.__/ \__,_|___/\___|  ##
+##              | |                               ##
+##              |_|                               ##
+##                                                ## 
+##  Get documentation at docs.liquibase.com       ##
+##  Get certified courses at learn.liquibase.com  ## 
+##                                                ##
+####################################################
+Starting Liquibase at 12:22:42 (version 4.25.1 #690 built at 2023-12-18 16:29+0000)
+[2024-01-26 12:22:42] INFO [liquibase.ui] Liquibase Version: 4.25.1
+[2024-01-26 12:22:42] INFO [liquibase.ui] Liquibase Open Source 4.25.1 by Liquibase
+[2024-01-26 12:22:42] FINE [liquibase.configuration] No configuration value for liquibase.monitorPerformance found
+[2024-01-26 12:22:42] FINE [liquibase.configuration] Configuration liquibase.monitorPerformance is using the default value of false
+[2024-01-26 12:22:42] FINE [liquibase.integration] Performance monitoring disabled
+[2024-01-26 12:22:42] INFO [liquibase.integration] Starting command execution.
+[2024-01-26 12:22:42] FINE [liquibase.configuration] No configuration value for liquibase.outputFile found
+[2024-01-26 12:22:42] FINE [liquibase.configuration] No configuration value for liquibase.strict found
+[2024-01-26 12:22:42] FINE [liquibase.configuration] Configuration liquibase.strict is using the default value of false
+[2024-01-26 12:22:42] FINE [liquibase.configuration] No configuration value for liquibase.command.status.changelogFile found
+[2024-01-26 12:22:42] FINE [liquibase.configuration] Found 'liquibase.command.changelogFile' configuration of 'example-changeLog.sql'
+    command argument '--changelog-file' of 'example-changeLog.sql'
+    Overrides file exists at path liquibase.properties 'changeLogFile' of 'example-changelog.xml'
+[2024-01-26 12:22:42] FINE [liquibase.configuration] No configuration value for liquibase.command.status.changelogParameters found
+[2024-01-26 12:22:42] FINE [liquibase.configuration] No configuration value for liquibase.command.changelogParameters found
+[2024-01-26 12:22:42] FINE [liquibase.configuration] No configuration value for liquibase.command.status.contextFilter aka liquibase.command.status.contexts found
+[2024-01-26 12:22:42] FINE [liquibase.configuration] No configuration value for liquibase.command.contextFilter aka liquibase.command.contexts found
+[2024-01-26 12:22:42] FINE [liquibase.configuration] No configuration value for liquibase.command.status.database found
+[2024-01-26 12:22:42] FINE [liquibase.configuration] No configuration value for liquibase.command.database found
+[2024-01-26 12:22:42] FINE [liquibase.configuration] No configuration value for liquibase.command.status.databaseChangelog found
+[2024-01-26 12:22:42] FINE [liquibase.configuration] No configuration value for liquibase.command.databaseChangelog found
+[2024-01-26 12:22:42] FINE [liquibase.configuration] No configuration value for liquibase.command.status.defaultCatalogName found
+[2024-01-26 12:22:42] FINE [liquibase.configuration] No configuration value for liquibase.command.defaultCatalogName found
+[2024-01-26 12:22:42] FINE [liquibase.configuration] No configuration value for liquibase.command.status.defaultSchemaName found
+[2024-01-26 12:22:42] FINE [liquibase.configuration] No configuration value for liquibase.command.defaultSchemaName found
+[2024-01-26 12:22:42] FINE [liquibase.configuration] No configuration value for liquibase.command.status.driver found
+[2024-01-26 12:22:42] FINE [liquibase.configuration] No configuration value for liquibase.command.driver found
+[2024-01-26 12:22:42] FINE [liquibase.configuration] No configuration value for liquibase.command.status.driverPropertiesFile found
+[2024-01-26 12:22:42] FINE [liquibase.configuration] No configuration value for liquibase.command.driverPropertiesFile found
+[2024-01-26 12:22:42] FINE [liquibase.configuration] No configuration value for liquibase.command.status.labelFilter aka liquibase.command.status.labels found
+[2024-01-26 12:22:42] FINE [liquibase.configuration] No configuration value for liquibase.command.labelFilter aka liquibase.command.labels found
+[2024-01-26 12:22:42] FINE [liquibase.configuration] No configuration value for liquibase.command.status.password found
+[2024-01-26 12:22:42] FINE [liquibase.configuration] Found 'liquibase.command.password' configuration of '*****'
+    command argument '--password' of '*****'
+    Overrides file exists at path liquibase.properties 'liquibase.command.password' of '*****'
+[2024-01-26 12:22:42] FINE [liquibase.configuration] No configuration value for liquibase.command.status.skipDatabaseStep found
+[2024-01-26 12:22:42] FINE [liquibase.configuration] Configuration liquibase.command.status.skipDatabaseStep is using the default value of false
+[2024-01-26 12:22:42] FINE [liquibase.configuration] No configuration value for liquibase.command.skipDatabaseStep found
+[2024-01-26 12:22:42] FINE [liquibase.configuration] Configuration liquibase.command.skipDatabaseStep is using the default value of false
+[2024-01-26 12:22:42] FINE [liquibase.configuration] No configuration value for liquibase.command.status.updateNullChecksums found
+[2024-01-26 12:22:42] FINE [liquibase.configuration] Configuration liquibase.command.status.updateNullChecksums is using the default value of false
+[2024-01-26 12:22:42] FINE [liquibase.configuration] No configuration value for liquibase.command.updateNullChecksums found
+[2024-01-26 12:22:42] FINE [liquibase.configuration] Configuration liquibase.command.updateNullChecksums is using the default value of false
+[2024-01-26 12:22:42] FINE [liquibase.configuration] No configuration value for liquibase.command.status.url found
+[2024-01-26 12:22:42] FINE [liquibase.servicelocator] Loaded liquibase.database.jvm.ConnectionPatterns instance liquibase.database.jvm.JdbcConnectionPatterns
+[2024-01-26 12:22:42] FINE [liquibase.configuration] Found 'liquibase.command.url' configuration of 'jdbc:sqlserver://DESKTOP-F22LNIE;portNumber=1433;databaseName=test;integratedSecurity=true;Encrypt=false;'
+    file exists at path liquibase.properties 'liquibase.command.url' of '*****'
+[2024-01-26 12:22:42] FINE [liquibase.configuration] No configuration value for liquibase.command.status.username found
+[2024-01-26 12:22:42] FINE [liquibase.configuration] Found 'liquibase.command.username' configuration of 'sa'
+    command argument '--username' of 'sa'
+    Overrides file exists at path liquibase.properties 'liquibase.command.username' of 'sa'
+[2024-01-26 12:22:42] FINE [liquibase.configuration] No configuration value for liquibase.command.status.verbose found
+[2024-01-26 12:22:42] FINE [liquibase.configuration] Configuration liquibase.command.status.verbose is using the default value of true
+[2024-01-26 12:22:42] FINE [liquibase.configuration] No configuration value for liquibase.command.verbose found
+[2024-01-26 12:22:42] FINE [liquibase.configuration] Configuration liquibase.command.verbose is using the default value of true
+[2024-01-26 12:22:42] FINE [liquibase.command] Pipeline for command 'status: liquibase.command.core.helpers.DbUrlConnectionArgumentsCommandStep then liquibase.command.core.helpers.DbUrlConnectionCommandStep then liquibase.command.core.helpers.DatabaseChangelogCommandStep then liquibase.command.core.StatusCommandStep
+[2024-01-26 12:22:42] FINE [liquibase.configuration] No configuration value for liquibase.outputFileEncoding found
+[2024-01-26 12:22:42] FINE [liquibase.configuration] Configuration liquibase.outputFileEncoding is using the default value of UTF-8
+[2024-01-26 12:22:42] FINE [liquibase.command] Writing output with encoding 'UTF-8'
+[2024-01-26 12:22:42] FINE [liquibase.command] Executing internal command dbUrlConnectionArguments
+[2024-01-26 12:22:42] FINE [liquibase.command] Executing internal command dbUrlConnectionCommandStep
+[2024-01-26 12:22:42] FINE [liquibase.configuration] Configuration liquibase.command.status.skipDatabaseStep is using the default value of false
+[2024-01-26 12:22:42] FINE [liquibase.configuration] Configuration liquibase.command.skipDatabaseStep is using the default value of false
+[2024-01-26 12:22:42] FINE [liquibase.configuration] No configuration value for liquibase.liquibaseCatalogName aka liquibase.catalogName found
+[2024-01-26 12:22:42] FINE [liquibase.configuration] No configuration value for liquibase.liquibaseSchemaName aka liquibase.schemaName found
+[2024-01-26 12:22:42] FINE [liquibase.configuration] No configuration value for liquibase.databaseClass found
+[2024-01-26 12:22:42] FINE [liquibase.configuration] No configuration value for liquibase.propertyProviderClass found
+[2024-01-26 12:22:42] FINE [liquibase.configuration] No configuration value for liquibase.liquibaseTablespaceName aka liquibase.databaseChangeLogTablespaceName aka liquibase.liquibaseTableSpaceName found
+[2024-01-26 12:22:42] FINE [liquibase.configuration] No configuration value for liquibase.databaseChangelogLockTableName aka liquibase.databaseChangeLogLockTableName found
+[2024-01-26 12:22:42] FINE [liquibase.configuration] Configuration liquibase.databaseChangelogLockTableName is using the default value of DATABASECHANGELOGLOCK
+[2024-01-26 12:22:42] FINE [liquibase.configuration] No configuration value for liquibase.databaseChangelogTableName aka liquibase.databaseChangeLogTableName found
+[2024-01-26 12:22:42] FINE [liquibase.configuration] Configuration liquibase.databaseChangelogTableName is using the default value of DATABASECHANGELOG
+[2024-01-26 12:22:42] FINE [liquibase.database] Properties:
+[2024-01-26 12:22:42] FINE [liquibase.database] Key:'password' Value:'**********'
+[2024-01-26 12:22:42] FINE [liquibase.database] Key:'user' Value:'sa'
+[2024-01-26 12:22:42] FINE [liquibase.database] Connecting to the URL:'jdbc:sqlserver://DESKTOP-F22LNIE;portNumber=1433;databaseName=test;integratedSecurity=true;Encrypt=false;' using driver:'com.microsoft.sqlserver.jdbc.SQLServerDriver'
+[2024-01-26 12:22:42] FINE [liquibase.servicelocator] Loaded liquibase.database.DatabaseConnection instance liquibase.database.jvm.JdbcConnection
+[2024-01-26 12:22:42] FINE [liquibase.servicelocator] Loaded liquibase.database.DatabaseConnection instance com.datical.liquibase.ext.database.jvm.ProJdbcConnection
+[2024-01-26 12:23:12] INFO [liquibase.command] Command execution complete
+[2024-01-26 12:23:12] SEVERE [liquibase.integration] class java.lang.UnsatisfiedLinkError cannot be cast to class java.lang.Exception (java.lang.UnsatisfiedLinkError and java.lang.Exception are in module java.base of loader 'bootstrap')
+liquibase.exception.CommandExecutionException: java.lang.ClassCastException: class java.lang.UnsatisfiedLinkError cannot be cast to class java.lang.Exception (java.lang.UnsatisfiedLinkError and java.lang.Exception are in module java.base of loader 'bootstrap')
+	at liquibase.command.CommandScope.execute(CommandScope.java:253)
+	at liquibase.integration.commandline.CommandRunner.call(CommandRunner.java:55)
+	at liquibase.integration.commandline.CommandRunner.call(CommandRunner.java:24)
+	at picocli.CommandLine.executeUserObject(CommandLine.java:2041)
+	at picocli.CommandLine.access$1500(CommandLine.java:148)
+	at picocli.CommandLine$RunLast.executeUserObjectOfLastSubcommandWithSameParent(CommandLine.java:2461)
+	at picocli.CommandLine$RunLast.handle(CommandLine.java:2453)
+	at picocli.CommandLine$RunLast.handle(CommandLine.java:2415)
+	at picocli.CommandLine$AbstractParseResultHandler.execute(CommandLine.java:2273)
+	at picocli.CommandLine$RunLast.execute(CommandLine.java:2417)
+	at picocli.CommandLine.execute(CommandLine.java:2170)
+	at liquibase.integration.commandline.LiquibaseCommandLine.lambda$execute$2(LiquibaseCommandLine.java:391)
+	at liquibase.Scope.child(Scope.java:195)
+	at liquibase.Scope.child(Scope.java:171)
+	at liquibase.integration.commandline.LiquibaseCommandLine.lambda$execute$3(LiquibaseCommandLine.java:366)
+	at liquibase.Scope.child(Scope.java:195)
+	at liquibase.Scope.child(Scope.java:171)
+	at liquibase.integration.commandline.LiquibaseCommandLine.execute(LiquibaseCommandLine.java:363)
+	at liquibase.integration.commandline.LiquibaseCommandLine.main(LiquibaseCommandLine.java:103)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at liquibase.integration.commandline.LiquibaseLauncher.main(LiquibaseLauncher.java:116)
+Caused by: java.lang.ClassCastException: class java.lang.UnsatisfiedLinkError cannot be cast to class java.lang.Exception (java.lang.UnsatisfiedLinkError and java.lang.Exception are in module java.base of loader 'bootstrap')
+	at liquibase.command.CommandScope.logPrimaryExceptionToMdc(CommandScope.java:287)
+	at liquibase.command.CommandScope.execute(CommandScope.java:245)
+	... 23 more
+
+[2024-01-26 12:23:12] INFO [liquibase.ui] Logs saved to liquibase.log
+[2024-01-26 12:31:27] FINE [liquibase.resource] Creating resourceAccessor for directory D:\7994-RND-SQL\liquibase
+[2024-01-26 12:31:27] FINE [liquibase.configuration] No configuration value for liquibase.searchPath found
+[2024-01-26 12:31:27] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\liquibase-core.jar
+[2024-01-26 12:31:27] FINE [liquibase.resource] Creating resourceAccessor for directory C:\Program Files\liquibase\lib
+[2024-01-26 12:31:27] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\commons-collections4.jar
+[2024-01-26 12:31:27] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\commons-lang3.jar
+[2024-01-26 12:31:27] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\commons-text.jar
+[2024-01-26 12:31:27] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\h2.jar
+[2024-01-26 12:31:27] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\hsqldb.jar
+[2024-01-26 12:31:27] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\jaxb-api.jar
+[2024-01-26 12:31:27] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\jaxb-core.jar
+[2024-01-26 12:31:27] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\jaxb-runtime.jar
+[2024-01-26 12:31:27] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\jaybird.jar
+[2024-01-26 12:31:27] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\jcc.jar
+[2024-01-26 12:31:27] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\liquibase-commercial.jar
+[2024-01-26 12:31:27] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\mariadb-java-client.jar
+[2024-01-26 12:31:27] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\mssql-jdbc.jar
+[2024-01-26 12:31:27] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\ojdbc8.jar
+[2024-01-26 12:31:27] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\opencsv.jar
+[2024-01-26 12:31:27] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\picocli.jar
+[2024-01-26 12:31:27] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\postgresql.jar
+[2024-01-26 12:31:27] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\snakeyaml.jar
+[2024-01-26 12:31:27] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\snowflake-jdbc.jar
+[2024-01-26 12:31:27] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\sqlite-jdbc.jar
+[2024-01-26 12:31:27] FINE [liquibase.resource] Creating resourceAccessor for directory C:\Program Files\liquibase\internal\lib
+[2024-01-26 12:31:27] FINE [liquibase.resource] Overall search path: 
+  - D:\7994-RND-SQL\liquibase
+  - C:\Program Files\liquibase\internal\lib\liquibase-core.jar
+  - C:\Program Files\liquibase\lib
+  - C:\Program Files\liquibase\internal\lib\commons-collections4.jar
+  - C:\Program Files\liquibase\internal\lib\commons-lang3.jar
+  - C:\Program Files\liquibase\internal\lib\commons-text.jar
+  - C:\Program Files\liquibase\internal\lib\h2.jar
+  - C:\Program Files\liquibase\internal\lib\hsqldb.jar
+  - C:\Program Files\liquibase\internal\lib\jaxb-api.jar
+  - C:\Program Files\liquibase\internal\lib\jaxb-core.jar
+  - C:\Program Files\liquibase\internal\lib\jaxb-runtime.jar
+  - C:\Program Files\liquibase\internal\lib\jaybird.jar
+  - C:\Program Files\liquibase\internal\lib\jcc.jar
+  - C:\Program Files\liquibase\internal\lib\liquibase-commercial.jar
+  - C:\Program Files\liquibase\internal\lib\mariadb-java-client.jar
+  - C:\Program Files\liquibase\internal\lib\mssql-jdbc.jar
+  - C:\Program Files\liquibase\internal\lib\ojdbc8.jar
+  - C:\Program Files\liquibase\internal\lib\opencsv.jar
+  - C:\Program Files\liquibase\internal\lib\picocli.jar
+  - C:\Program Files\liquibase\internal\lib\postgresql.jar
+  - C:\Program Files\liquibase\internal\lib\snakeyaml.jar
+  - C:\Program Files\liquibase\internal\lib\snowflake-jdbc.jar
+  - C:\Program Files\liquibase\internal\lib\sqlite-jdbc.jar
+  - C:\Program Files\liquibase\internal\lib
+[2024-01-26 12:31:27] FINE [liquibase.configuration] No configuration value for liquibase.uiService found
+[2024-01-26 12:31:27] FINE [liquibase.configuration] Configuration liquibase.uiService is using the default value of CONSOLE
+[2024-01-26 12:31:27] FINE [liquibase.configuration] No configuration value for liquibase.mirrorConsoleMessagesToLog found
+[2024-01-26 12:31:27] FINE [liquibase.configuration] Configuration liquibase.mirrorConsoleMessagesToLog is using the default value of true
+[2024-01-26 12:31:27] FINE [liquibase.configuration] No configuration value for liquibase.shouldRun aka should.run found
+[2024-01-26 12:31:27] FINE [liquibase.configuration] Configuration liquibase.shouldRun is using the default value of true
+[2024-01-26 12:31:27] FINE [liquibase.configuration] No configuration value for liquibase.showBanner found
+[2024-01-26 12:31:27] FINE [liquibase.configuration] Configuration liquibase.showBanner is using the default value of true
+[2024-01-26 12:31:27] INFO [liquibase.ui] ####################################################
+##   _     _             _ _                      ##
+##  | |   (_)           (_) |                     ##
+##  | |    _  __ _ _   _ _| |__   __ _ ___  ___   ##
+##  | |   | |/ _` | | | | | '_ \ / _` / __|/ _ \  ##
+##  | |___| | (_| | |_| | | |_) | (_| \__ \  __/  ##
+##  \_____/_|\__, |\__,_|_|_.__/ \__,_|___/\___|  ##
+##              | |                               ##
+##              |_|                               ##
+##                                                ## 
+##  Get documentation at docs.liquibase.com       ##
+##  Get certified courses at learn.liquibase.com  ## 
+##                                                ##
+####################################################
+Starting Liquibase at 12:31:27 (version 4.25.1 #690 built at 2023-12-18 16:29+0000)
+[2024-01-26 12:31:27] INFO [liquibase.ui] Liquibase Version: 4.25.1
+[2024-01-26 12:31:27] INFO [liquibase.ui] Liquibase Open Source 4.25.1 by Liquibase
+[2024-01-26 12:31:27] FINE [liquibase.configuration] No configuration value for liquibase.monitorPerformance found
+[2024-01-26 12:31:27] FINE [liquibase.configuration] Configuration liquibase.monitorPerformance is using the default value of false
+[2024-01-26 12:31:27] FINE [liquibase.integration] Performance monitoring disabled
+[2024-01-26 12:31:27] INFO [liquibase.integration] Starting command execution.
+[2024-01-26 12:31:27] FINE [liquibase.configuration] No configuration value for liquibase.outputFile found
+[2024-01-26 12:31:27] FINE [liquibase.configuration] No configuration value for liquibase.strict found
+[2024-01-26 12:31:27] FINE [liquibase.configuration] Configuration liquibase.strict is using the default value of false
+[2024-01-26 12:31:27] FINE [liquibase.configuration] No configuration value for liquibase.command.status.changelogFile found
+[2024-01-26 12:31:27] FINE [liquibase.configuration] Found 'liquibase.command.changelogFile' configuration of 'example-changeLog.sql'
+    command argument '--changelog-file' of 'example-changeLog.sql'
+    Overrides file exists at path liquibase.properties 'changeLogFile' of 'example-changelog.xml'
+[2024-01-26 12:31:27] FINE [liquibase.configuration] No configuration value for liquibase.command.status.changelogParameters found
+[2024-01-26 12:31:27] FINE [liquibase.configuration] No configuration value for liquibase.command.changelogParameters found
+[2024-01-26 12:31:27] FINE [liquibase.configuration] No configuration value for liquibase.command.status.contextFilter aka liquibase.command.status.contexts found
+[2024-01-26 12:31:27] FINE [liquibase.configuration] No configuration value for liquibase.command.contextFilter aka liquibase.command.contexts found
+[2024-01-26 12:31:27] FINE [liquibase.configuration] No configuration value for liquibase.command.status.database found
+[2024-01-26 12:31:27] FINE [liquibase.configuration] No configuration value for liquibase.command.database found
+[2024-01-26 12:31:27] FINE [liquibase.configuration] No configuration value for liquibase.command.status.databaseChangelog found
+[2024-01-26 12:31:27] FINE [liquibase.configuration] No configuration value for liquibase.command.databaseChangelog found
+[2024-01-26 12:31:27] FINE [liquibase.configuration] No configuration value for liquibase.command.status.defaultCatalogName found
+[2024-01-26 12:31:27] FINE [liquibase.configuration] No configuration value for liquibase.command.defaultCatalogName found
+[2024-01-26 12:31:27] FINE [liquibase.configuration] No configuration value for liquibase.command.status.defaultSchemaName found
+[2024-01-26 12:31:27] FINE [liquibase.configuration] No configuration value for liquibase.command.defaultSchemaName found
+[2024-01-26 12:31:27] FINE [liquibase.configuration] No configuration value for liquibase.command.status.driver found
+[2024-01-26 12:31:27] FINE [liquibase.configuration] No configuration value for liquibase.command.driver found
+[2024-01-26 12:31:27] FINE [liquibase.configuration] No configuration value for liquibase.command.status.driverPropertiesFile found
+[2024-01-26 12:31:27] FINE [liquibase.configuration] No configuration value for liquibase.command.driverPropertiesFile found
+[2024-01-26 12:31:27] FINE [liquibase.configuration] No configuration value for liquibase.command.status.labelFilter aka liquibase.command.status.labels found
+[2024-01-26 12:31:27] FINE [liquibase.configuration] No configuration value for liquibase.command.labelFilter aka liquibase.command.labels found
+[2024-01-26 12:31:27] FINE [liquibase.configuration] No configuration value for liquibase.command.status.password found
+[2024-01-26 12:31:27] FINE [liquibase.configuration] Found 'liquibase.command.password' configuration of '*****'
+    command argument '--password' of '*****'
+    Overrides file exists at path liquibase.properties 'liquibase.command.password' of '*****'
+[2024-01-26 12:31:27] FINE [liquibase.configuration] No configuration value for liquibase.command.status.skipDatabaseStep found
+[2024-01-26 12:31:27] FINE [liquibase.configuration] Configuration liquibase.command.status.skipDatabaseStep is using the default value of false
+[2024-01-26 12:31:27] FINE [liquibase.configuration] No configuration value for liquibase.command.skipDatabaseStep found
+[2024-01-26 12:31:27] FINE [liquibase.configuration] Configuration liquibase.command.skipDatabaseStep is using the default value of false
+[2024-01-26 12:31:27] FINE [liquibase.configuration] No configuration value for liquibase.command.status.updateNullChecksums found
+[2024-01-26 12:31:27] FINE [liquibase.configuration] Configuration liquibase.command.status.updateNullChecksums is using the default value of false
+[2024-01-26 12:31:27] FINE [liquibase.configuration] No configuration value for liquibase.command.updateNullChecksums found
+[2024-01-26 12:31:27] FINE [liquibase.configuration] Configuration liquibase.command.updateNullChecksums is using the default value of false
+[2024-01-26 12:31:27] FINE [liquibase.configuration] No configuration value for liquibase.command.status.url found
+[2024-01-26 12:31:27] FINE [liquibase.servicelocator] Loaded liquibase.database.jvm.ConnectionPatterns instance liquibase.database.jvm.JdbcConnectionPatterns
+[2024-01-26 12:31:27] FINE [liquibase.configuration] Found 'liquibase.command.url' configuration of 'jdbc:sqlserver://DESKTOP-F22LNIE;portNumber=1433;databaseName=test;integratedSecurity=true;encrypt=true;trustServerCertificate=true;'
+    file exists at path liquibase.properties 'liquibase.command.url' of '*****'
+[2024-01-26 12:31:27] FINE [liquibase.configuration] No configuration value for liquibase.command.status.username found
+[2024-01-26 12:31:27] FINE [liquibase.configuration] Found 'liquibase.command.username' configuration of 'sa'
+    command argument '--username' of 'sa'
+    Overrides file exists at path liquibase.properties 'liquibase.command.username' of 'sa'
+[2024-01-26 12:31:27] FINE [liquibase.configuration] No configuration value for liquibase.command.status.verbose found
+[2024-01-26 12:31:27] FINE [liquibase.configuration] Configuration liquibase.command.status.verbose is using the default value of true
+[2024-01-26 12:31:27] FINE [liquibase.configuration] No configuration value for liquibase.command.verbose found
+[2024-01-26 12:31:27] FINE [liquibase.configuration] Configuration liquibase.command.verbose is using the default value of true
+[2024-01-26 12:31:27] FINE [liquibase.command] Pipeline for command 'status: liquibase.command.core.helpers.DbUrlConnectionArgumentsCommandStep then liquibase.command.core.helpers.DbUrlConnectionCommandStep then liquibase.command.core.helpers.DatabaseChangelogCommandStep then liquibase.command.core.StatusCommandStep
+[2024-01-26 12:31:27] FINE [liquibase.configuration] No configuration value for liquibase.outputFileEncoding found
+[2024-01-26 12:31:27] FINE [liquibase.configuration] Configuration liquibase.outputFileEncoding is using the default value of UTF-8
+[2024-01-26 12:31:27] FINE [liquibase.command] Writing output with encoding 'UTF-8'
+[2024-01-26 12:31:27] FINE [liquibase.command] Executing internal command dbUrlConnectionArguments
+[2024-01-26 12:31:27] FINE [liquibase.command] Executing internal command dbUrlConnectionCommandStep
+[2024-01-26 12:31:27] FINE [liquibase.configuration] Configuration liquibase.command.status.skipDatabaseStep is using the default value of false
+[2024-01-26 12:31:27] FINE [liquibase.configuration] Configuration liquibase.command.skipDatabaseStep is using the default value of false
+[2024-01-26 12:31:27] FINE [liquibase.configuration] No configuration value for liquibase.liquibaseCatalogName aka liquibase.catalogName found
+[2024-01-26 12:31:27] FINE [liquibase.configuration] No configuration value for liquibase.liquibaseSchemaName aka liquibase.schemaName found
+[2024-01-26 12:31:27] FINE [liquibase.configuration] No configuration value for liquibase.databaseClass found
+[2024-01-26 12:31:27] FINE [liquibase.configuration] No configuration value for liquibase.propertyProviderClass found
+[2024-01-26 12:31:27] FINE [liquibase.configuration] No configuration value for liquibase.liquibaseTablespaceName aka liquibase.databaseChangeLogTablespaceName aka liquibase.liquibaseTableSpaceName found
+[2024-01-26 12:31:27] FINE [liquibase.configuration] No configuration value for liquibase.databaseChangelogLockTableName aka liquibase.databaseChangeLogLockTableName found
+[2024-01-26 12:31:27] FINE [liquibase.configuration] Configuration liquibase.databaseChangelogLockTableName is using the default value of DATABASECHANGELOGLOCK
+[2024-01-26 12:31:27] FINE [liquibase.configuration] No configuration value for liquibase.databaseChangelogTableName aka liquibase.databaseChangeLogTableName found
+[2024-01-26 12:31:27] FINE [liquibase.configuration] Configuration liquibase.databaseChangelogTableName is using the default value of DATABASECHANGELOG
+[2024-01-26 12:31:27] FINE [liquibase.database] Properties:
+[2024-01-26 12:31:27] FINE [liquibase.database] Key:'password' Value:'**********'
+[2024-01-26 12:31:27] FINE [liquibase.database] Key:'user' Value:'sa'
+[2024-01-26 12:31:27] FINE [liquibase.database] Connecting to the URL:'jdbc:sqlserver://DESKTOP-F22LNIE;portNumber=1433;databaseName=test;integratedSecurity=true;encrypt=true;trustServerCertificate=true;' using driver:'com.microsoft.sqlserver.jdbc.SQLServerDriver'
+[2024-01-26 12:31:27] FINE [liquibase.servicelocator] Loaded liquibase.database.DatabaseConnection instance liquibase.database.jvm.JdbcConnection
+[2024-01-26 12:31:27] FINE [liquibase.servicelocator] Loaded liquibase.database.DatabaseConnection instance com.datical.liquibase.ext.database.jvm.ProJdbcConnection
+[2024-01-26 12:31:57] INFO [liquibase.command] Command execution complete
+[2024-01-26 12:31:57] SEVERE [liquibase.integration] class java.lang.UnsatisfiedLinkError cannot be cast to class java.lang.Exception (java.lang.UnsatisfiedLinkError and java.lang.Exception are in module java.base of loader 'bootstrap')
+liquibase.exception.CommandExecutionException: java.lang.ClassCastException: class java.lang.UnsatisfiedLinkError cannot be cast to class java.lang.Exception (java.lang.UnsatisfiedLinkError and java.lang.Exception are in module java.base of loader 'bootstrap')
+	at liquibase.command.CommandScope.execute(CommandScope.java:253)
+	at liquibase.integration.commandline.CommandRunner.call(CommandRunner.java:55)
+	at liquibase.integration.commandline.CommandRunner.call(CommandRunner.java:24)
+	at picocli.CommandLine.executeUserObject(CommandLine.java:2041)
+	at picocli.CommandLine.access$1500(CommandLine.java:148)
+	at picocli.CommandLine$RunLast.executeUserObjectOfLastSubcommandWithSameParent(CommandLine.java:2461)
+	at picocli.CommandLine$RunLast.handle(CommandLine.java:2453)
+	at picocli.CommandLine$RunLast.handle(CommandLine.java:2415)
+	at picocli.CommandLine$AbstractParseResultHandler.execute(CommandLine.java:2273)
+	at picocli.CommandLine$RunLast.execute(CommandLine.java:2417)
+	at picocli.CommandLine.execute(CommandLine.java:2170)
+	at liquibase.integration.commandline.LiquibaseCommandLine.lambda$execute$2(LiquibaseCommandLine.java:391)
+	at liquibase.Scope.child(Scope.java:195)
+	at liquibase.Scope.child(Scope.java:171)
+	at liquibase.integration.commandline.LiquibaseCommandLine.lambda$execute$3(LiquibaseCommandLine.java:366)
+	at liquibase.Scope.child(Scope.java:195)
+	at liquibase.Scope.child(Scope.java:171)
+	at liquibase.integration.commandline.LiquibaseCommandLine.execute(LiquibaseCommandLine.java:363)
+	at liquibase.integration.commandline.LiquibaseCommandLine.main(LiquibaseCommandLine.java:103)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at liquibase.integration.commandline.LiquibaseLauncher.main(LiquibaseLauncher.java:116)
+Caused by: java.lang.ClassCastException: class java.lang.UnsatisfiedLinkError cannot be cast to class java.lang.Exception (java.lang.UnsatisfiedLinkError and java.lang.Exception are in module java.base of loader 'bootstrap')
+	at liquibase.command.CommandScope.logPrimaryExceptionToMdc(CommandScope.java:287)
+	at liquibase.command.CommandScope.execute(CommandScope.java:245)
+	... 23 more
+
+[2024-01-26 12:31:57] INFO [liquibase.ui] Logs saved to liquibase.log
+[2024-01-26 12:33:35] FINE [liquibase.resource] Creating resourceAccessor for directory D:\7994-RND-SQL\liquibase
+[2024-01-26 12:33:35] FINE [liquibase.configuration] No configuration value for liquibase.searchPath found
+[2024-01-26 12:33:35] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\liquibase-core.jar
+[2024-01-26 12:33:35] FINE [liquibase.resource] Creating resourceAccessor for directory C:\Program Files\liquibase\lib
+[2024-01-26 12:33:35] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\commons-collections4.jar
+[2024-01-26 12:33:35] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\commons-lang3.jar
+[2024-01-26 12:33:35] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\commons-text.jar
+[2024-01-26 12:33:35] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\h2.jar
+[2024-01-26 12:33:35] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\hsqldb.jar
+[2024-01-26 12:33:35] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\jaxb-api.jar
+[2024-01-26 12:33:35] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\jaxb-core.jar
+[2024-01-26 12:33:35] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\jaxb-runtime.jar
+[2024-01-26 12:33:35] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\jaybird.jar
+[2024-01-26 12:33:35] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\jcc.jar
+[2024-01-26 12:33:35] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\liquibase-commercial.jar
+[2024-01-26 12:33:35] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\mariadb-java-client.jar
+[2024-01-26 12:33:35] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\mssql-jdbc.jar
+[2024-01-26 12:33:35] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\ojdbc8.jar
+[2024-01-26 12:33:35] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\opencsv.jar
+[2024-01-26 12:33:35] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\picocli.jar
+[2024-01-26 12:33:35] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\postgresql.jar
+[2024-01-26 12:33:35] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\snakeyaml.jar
+[2024-01-26 12:33:35] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\snowflake-jdbc.jar
+[2024-01-26 12:33:35] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\sqlite-jdbc.jar
+[2024-01-26 12:33:35] FINE [liquibase.resource] Creating resourceAccessor for directory C:\Program Files\liquibase\internal\lib
+[2024-01-26 12:33:35] FINE [liquibase.resource] Overall search path: 
+  - D:\7994-RND-SQL\liquibase
+  - C:\Program Files\liquibase\internal\lib\liquibase-core.jar
+  - C:\Program Files\liquibase\lib
+  - C:\Program Files\liquibase\internal\lib\commons-collections4.jar
+  - C:\Program Files\liquibase\internal\lib\commons-lang3.jar
+  - C:\Program Files\liquibase\internal\lib\commons-text.jar
+  - C:\Program Files\liquibase\internal\lib\h2.jar
+  - C:\Program Files\liquibase\internal\lib\hsqldb.jar
+  - C:\Program Files\liquibase\internal\lib\jaxb-api.jar
+  - C:\Program Files\liquibase\internal\lib\jaxb-core.jar
+  - C:\Program Files\liquibase\internal\lib\jaxb-runtime.jar
+  - C:\Program Files\liquibase\internal\lib\jaybird.jar
+  - C:\Program Files\liquibase\internal\lib\jcc.jar
+  - C:\Program Files\liquibase\internal\lib\liquibase-commercial.jar
+  - C:\Program Files\liquibase\internal\lib\mariadb-java-client.jar
+  - C:\Program Files\liquibase\internal\lib\mssql-jdbc.jar
+  - C:\Program Files\liquibase\internal\lib\ojdbc8.jar
+  - C:\Program Files\liquibase\internal\lib\opencsv.jar
+  - C:\Program Files\liquibase\internal\lib\picocli.jar
+  - C:\Program Files\liquibase\internal\lib\postgresql.jar
+  - C:\Program Files\liquibase\internal\lib\snakeyaml.jar
+  - C:\Program Files\liquibase\internal\lib\snowflake-jdbc.jar
+  - C:\Program Files\liquibase\internal\lib\sqlite-jdbc.jar
+  - C:\Program Files\liquibase\internal\lib
+[2024-01-26 12:33:35] FINE [liquibase.configuration] No configuration value for liquibase.uiService found
+[2024-01-26 12:33:35] FINE [liquibase.configuration] Configuration liquibase.uiService is using the default value of CONSOLE
+[2024-01-26 12:33:35] FINE [liquibase.configuration] No configuration value for liquibase.mirrorConsoleMessagesToLog found
+[2024-01-26 12:33:35] FINE [liquibase.configuration] Configuration liquibase.mirrorConsoleMessagesToLog is using the default value of true
+[2024-01-26 12:33:35] FINE [liquibase.configuration] No configuration value for liquibase.shouldRun aka should.run found
+[2024-01-26 12:33:35] FINE [liquibase.configuration] Configuration liquibase.shouldRun is using the default value of true
+[2024-01-26 12:33:35] FINE [liquibase.configuration] No configuration value for liquibase.monitorPerformance found
+[2024-01-26 12:33:35] FINE [liquibase.configuration] Configuration liquibase.monitorPerformance is using the default value of false
+[2024-01-26 12:33:35] FINE [liquibase.integration] Performance monitoring disabled
+[2024-01-26 12:33:35] INFO [liquibase.integration] Starting command execution.
+[2024-01-26 12:33:35] INFO [liquibase.integration] Generated version info
+[2024-01-26 12:33:35] FINE [liquibase.configuration] No configuration value for liquibase.showBanner found
+[2024-01-26 12:33:35] FINE [liquibase.configuration] Configuration liquibase.showBanner is using the default value of true
+[2024-01-26 12:36:34] FINE [liquibase.resource] Creating resourceAccessor for directory D:\7994-RND-SQL\liquibase
+[2024-01-26 12:36:34] FINE [liquibase.configuration] No configuration value for liquibase.searchPath found
+[2024-01-26 12:36:34] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\liquibase-core.jar
+[2024-01-26 12:36:34] FINE [liquibase.resource] Creating resourceAccessor for directory C:\Program Files\liquibase\lib
+[2024-01-26 12:36:34] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\commons-collections4.jar
+[2024-01-26 12:36:34] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\commons-lang3.jar
+[2024-01-26 12:36:34] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\commons-text.jar
+[2024-01-26 12:36:34] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\h2.jar
+[2024-01-26 12:36:34] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\hsqldb.jar
+[2024-01-26 12:36:34] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\jaxb-api.jar
+[2024-01-26 12:36:34] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\jaxb-core.jar
+[2024-01-26 12:36:34] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\jaxb-runtime.jar
+[2024-01-26 12:36:34] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\jaybird.jar
+[2024-01-26 12:36:34] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\jcc.jar
+[2024-01-26 12:36:34] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\liquibase-commercial.jar
+[2024-01-26 12:36:34] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\mariadb-java-client.jar
+[2024-01-26 12:36:34] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\mssql-jdbc.jar
+[2024-01-26 12:36:34] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\ojdbc8.jar
+[2024-01-26 12:36:34] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\opencsv.jar
+[2024-01-26 12:36:34] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\picocli.jar
+[2024-01-26 12:36:34] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\postgresql.jar
+[2024-01-26 12:36:34] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\snakeyaml.jar
+[2024-01-26 12:36:34] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\snowflake-jdbc.jar
+[2024-01-26 12:36:34] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\sqlite-jdbc.jar
+[2024-01-26 12:36:34] FINE [liquibase.resource] Creating resourceAccessor for directory C:\Program Files\liquibase\internal\lib
+[2024-01-26 12:36:34] FINE [liquibase.resource] Overall search path: 
+  - D:\7994-RND-SQL\liquibase
+  - C:\Program Files\liquibase\internal\lib\liquibase-core.jar
+  - C:\Program Files\liquibase\lib
+  - C:\Program Files\liquibase\internal\lib\commons-collections4.jar
+  - C:\Program Files\liquibase\internal\lib\commons-lang3.jar
+  - C:\Program Files\liquibase\internal\lib\commons-text.jar
+  - C:\Program Files\liquibase\internal\lib\h2.jar
+  - C:\Program Files\liquibase\internal\lib\hsqldb.jar
+  - C:\Program Files\liquibase\internal\lib\jaxb-api.jar
+  - C:\Program Files\liquibase\internal\lib\jaxb-core.jar
+  - C:\Program Files\liquibase\internal\lib\jaxb-runtime.jar
+  - C:\Program Files\liquibase\internal\lib\jaybird.jar
+  - C:\Program Files\liquibase\internal\lib\jcc.jar
+  - C:\Program Files\liquibase\internal\lib\liquibase-commercial.jar
+  - C:\Program Files\liquibase\internal\lib\mariadb-java-client.jar
+  - C:\Program Files\liquibase\internal\lib\mssql-jdbc.jar
+  - C:\Program Files\liquibase\internal\lib\ojdbc8.jar
+  - C:\Program Files\liquibase\internal\lib\opencsv.jar
+  - C:\Program Files\liquibase\internal\lib\picocli.jar
+  - C:\Program Files\liquibase\internal\lib\postgresql.jar
+  - C:\Program Files\liquibase\internal\lib\snakeyaml.jar
+  - C:\Program Files\liquibase\internal\lib\snowflake-jdbc.jar
+  - C:\Program Files\liquibase\internal\lib\sqlite-jdbc.jar
+  - C:\Program Files\liquibase\internal\lib
+[2024-01-26 12:36:34] FINE [liquibase.configuration] No configuration value for liquibase.uiService found
+[2024-01-26 12:36:34] FINE [liquibase.configuration] Configuration liquibase.uiService is using the default value of CONSOLE
+[2024-01-26 12:36:34] FINE [liquibase.configuration] No configuration value for liquibase.mirrorConsoleMessagesToLog found
+[2024-01-26 12:36:34] FINE [liquibase.configuration] Configuration liquibase.mirrorConsoleMessagesToLog is using the default value of true
+[2024-01-26 12:36:34] FINE [liquibase.configuration] No configuration value for liquibase.shouldRun aka should.run found
+[2024-01-26 12:36:34] FINE [liquibase.configuration] Configuration liquibase.shouldRun is using the default value of true
+[2024-01-26 12:36:34] FINE [liquibase.configuration] No configuration value for liquibase.showBanner found
+[2024-01-26 12:36:34] FINE [liquibase.configuration] Configuration liquibase.showBanner is using the default value of true
+[2024-01-26 12:36:34] INFO [liquibase.ui] ####################################################
+##   _     _             _ _                      ##
+##  | |   (_)           (_) |                     ##
+##  | |    _  __ _ _   _ _| |__   __ _ ___  ___   ##
+##  | |   | |/ _` | | | | | '_ \ / _` / __|/ _ \  ##
+##  | |___| | (_| | |_| | | |_) | (_| \__ \  __/  ##
+##  \_____/_|\__, |\__,_|_|_.__/ \__,_|___/\___|  ##
+##              | |                               ##
+##              |_|                               ##
+##                                                ## 
+##  Get documentation at docs.liquibase.com       ##
+##  Get certified courses at learn.liquibase.com  ## 
+##                                                ##
+####################################################
+Starting Liquibase at 12:36:34 (version 4.25.1 #690 built at 2023-12-18 16:29+0000)
+[2024-01-26 12:36:34] INFO [liquibase.ui] Liquibase Version: 4.25.1
+[2024-01-26 12:36:34] INFO [liquibase.ui] Liquibase Open Source 4.25.1 by Liquibase
+[2024-01-26 12:36:34] FINE [liquibase.configuration] No configuration value for liquibase.monitorPerformance found
+[2024-01-26 12:36:34] FINE [liquibase.configuration] Configuration liquibase.monitorPerformance is using the default value of false
+[2024-01-26 12:36:34] FINE [liquibase.integration] Performance monitoring disabled
+[2024-01-26 12:36:34] INFO [liquibase.integration] Starting command execution.
+[2024-01-26 12:36:34] FINE [liquibase.command] Found ProUpdateCommandStep override for UpdateCommandStep! Using ProUpdateCommandStep in pipeline.
+[2024-01-26 12:36:34] FINE [liquibase.configuration] No configuration value for liquibase.outputFile found
+[2024-01-26 12:36:34] FINE [liquibase.configuration] No configuration value for liquibase.strict found
+[2024-01-26 12:36:34] FINE [liquibase.configuration] Configuration liquibase.strict is using the default value of false
+[2024-01-26 12:36:34] FINE [liquibase.configuration] No configuration value for liquibase.command.update.changeExecListener found
+[2024-01-26 12:36:34] FINE [liquibase.configuration] No configuration value for liquibase.command.changeExecListener found
+[2024-01-26 12:36:34] FINE [liquibase.configuration] No configuration value for liquibase.command.update.changeExecListenerClass found
+[2024-01-26 12:36:34] FINE [liquibase.configuration] No configuration value for liquibase.command.changeExecListenerClass found
+[2024-01-26 12:36:34] FINE [liquibase.configuration] No configuration value for liquibase.command.update.changeExecListenerPropertiesFile found
+[2024-01-26 12:36:34] FINE [liquibase.configuration] No configuration value for liquibase.command.changeExecListenerPropertiesFile found
+[2024-01-26 12:36:34] FINE [liquibase.configuration] No configuration value for liquibase.command.update.changelogFile found
+[2024-01-26 12:36:34] FINE [liquibase.configuration] Found 'liquibase.command.changelogFile' configuration of 'example-changelog.xml'
+    command argument '--changelog-file' of 'example-changelog.xml'
+    Overrides file exists at path liquibase.properties 'changeLogFile' of 'example-changelog.xml'
+[2024-01-26 12:36:34] FINE [liquibase.configuration] No configuration value for liquibase.command.update.changelogParameters found
+[2024-01-26 12:36:34] FINE [liquibase.configuration] No configuration value for liquibase.command.changelogParameters found
+[2024-01-26 12:36:34] FINE [liquibase.configuration] No configuration value for liquibase.command.update.contextFilter aka liquibase.command.update.contexts found
+[2024-01-26 12:36:34] FINE [liquibase.configuration] No configuration value for liquibase.command.contextFilter aka liquibase.command.contexts found
+[2024-01-26 12:36:34] FINE [liquibase.configuration] No configuration value for liquibase.command.update.database found
+[2024-01-26 12:36:34] FINE [liquibase.configuration] No configuration value for liquibase.command.database found
+[2024-01-26 12:36:34] FINE [liquibase.configuration] No configuration value for liquibase.command.update.databaseChangelog found
+[2024-01-26 12:36:34] FINE [liquibase.configuration] No configuration value for liquibase.command.databaseChangelog found
+[2024-01-26 12:36:34] FINE [liquibase.configuration] No configuration value for liquibase.command.update.defaultCatalogName found
+[2024-01-26 12:36:34] FINE [liquibase.configuration] No configuration value for liquibase.command.defaultCatalogName found
+[2024-01-26 12:36:34] FINE [liquibase.configuration] No configuration value for liquibase.command.update.defaultSchemaName found
+[2024-01-26 12:36:34] FINE [liquibase.configuration] No configuration value for liquibase.command.defaultSchemaName found
+[2024-01-26 12:36:34] FINE [liquibase.configuration] No configuration value for liquibase.command.update.driver found
+[2024-01-26 12:36:34] FINE [liquibase.configuration] No configuration value for liquibase.command.driver found
+[2024-01-26 12:36:34] FINE [liquibase.configuration] No configuration value for liquibase.command.update.driverPropertiesFile found
+[2024-01-26 12:36:34] FINE [liquibase.configuration] No configuration value for liquibase.command.driverPropertiesFile found
+[2024-01-26 12:36:34] FINE [liquibase.configuration] No configuration value for liquibase.command.update.labelFilter aka liquibase.command.update.labels found
+[2024-01-26 12:36:34] FINE [liquibase.configuration] No configuration value for liquibase.command.labelFilter aka liquibase.command.labels found
+[2024-01-26 12:36:34] FINE [liquibase.configuration] No configuration value for liquibase.command.update.password found
+[2024-01-26 12:36:34] FINE [liquibase.configuration] Found 'liquibase.command.password' configuration of '*****'
+    file exists at path liquibase.properties 'liquibase.command.password' of '*****'
+[2024-01-26 12:36:34] FINE [liquibase.configuration] No configuration value for liquibase.command.update.reportEnabled aka liquibase.command.update.reportsEnabled found
+[2024-01-26 12:36:34] FINE [liquibase.configuration] No configuration value for liquibase.command.reportEnabled aka liquibase.command.reportsEnabled found
+[2024-01-26 12:36:34] FINE [liquibase.configuration] No configuration value for liquibase.command.update.reportFormat aka liquibase.command.update.reportsFormat found
+[2024-01-26 12:36:34] FINE [liquibase.configuration] No configuration value for liquibase.command.reportFormat aka liquibase.command.reportsFormat found
+[2024-01-26 12:36:34] FINE [liquibase.configuration] No configuration value for liquibase.command.update.reportName aka liquibase.command.update.reportsName found
+[2024-01-26 12:36:34] FINE [liquibase.configuration] No configuration value for liquibase.command.reportName aka liquibase.command.reportsName found
+[2024-01-26 12:36:34] FINE [liquibase.configuration] No configuration value for liquibase.command.update.reportPath aka liquibase.command.update.reportsPath found
+[2024-01-26 12:36:34] FINE [liquibase.configuration] No configuration value for liquibase.command.reportPath aka liquibase.command.reportsPath found
+[2024-01-26 12:36:34] FINE [liquibase.configuration] No configuration value for liquibase.command.update.rollbackOnError found
+[2024-01-26 12:36:34] FINE [liquibase.configuration] Configuration liquibase.command.update.rollbackOnError is using the default value of false
+[2024-01-26 12:36:34] FINE [liquibase.configuration] No configuration value for liquibase.command.rollbackOnError found
+[2024-01-26 12:36:34] FINE [liquibase.configuration] Configuration liquibase.command.rollbackOnError is using the default value of false
+[2024-01-26 12:36:34] FINE [liquibase.configuration] No configuration value for liquibase.command.update.showSummary found
+[2024-01-26 12:36:34] FINE [liquibase.configuration] Configuration liquibase.command.update.showSummary is using the default value of SUMMARY
+[2024-01-26 12:36:34] FINE [liquibase.configuration] No configuration value for liquibase.command.showSummary found
+[2024-01-26 12:36:34] FINE [liquibase.configuration] Configuration liquibase.command.showSummary is using the default value of SUMMARY
+[2024-01-26 12:36:34] FINE [liquibase.configuration] No configuration value for liquibase.command.update.showSummaryOutput found
+[2024-01-26 12:36:34] FINE [liquibase.configuration] Configuration liquibase.command.update.showSummaryOutput is using the default value of ALL
+[2024-01-26 12:36:34] FINE [liquibase.configuration] No configuration value for liquibase.command.showSummaryOutput found
+[2024-01-26 12:36:34] FINE [liquibase.configuration] Configuration liquibase.command.showSummaryOutput is using the default value of ALL
+[2024-01-26 12:36:34] FINE [liquibase.configuration] No configuration value for liquibase.command.update.skipDatabaseStep found
+[2024-01-26 12:36:34] FINE [liquibase.configuration] Configuration liquibase.command.update.skipDatabaseStep is using the default value of false
+[2024-01-26 12:36:34] FINE [liquibase.configuration] No configuration value for liquibase.command.skipDatabaseStep found
+[2024-01-26 12:36:34] FINE [liquibase.configuration] Configuration liquibase.command.skipDatabaseStep is using the default value of false
+[2024-01-26 12:36:34] FINE [liquibase.configuration] No configuration value for liquibase.command.update.updateNullChecksums found
+[2024-01-26 12:36:34] FINE [liquibase.configuration] Configuration liquibase.command.update.updateNullChecksums is using the default value of false
+[2024-01-26 12:36:34] FINE [liquibase.configuration] No configuration value for liquibase.command.updateNullChecksums found
+[2024-01-26 12:36:34] FINE [liquibase.configuration] Configuration liquibase.command.updateNullChecksums is using the default value of false
+[2024-01-26 12:36:34] FINE [liquibase.configuration] No configuration value for liquibase.command.update.url found
+[2024-01-26 12:36:35] FINE [liquibase.servicelocator] Loaded liquibase.database.jvm.ConnectionPatterns instance liquibase.database.jvm.JdbcConnectionPatterns
+[2024-01-26 12:36:35] FINE [liquibase.configuration] Found 'liquibase.command.url' configuration of 'jdbc:sqlserver://DESKTOP-F22LNIE;portNumber=1433;databaseName=test;integratedSecurity=true;encrypt=true;trustServerCertificate=true;'
+    file exists at path liquibase.properties 'liquibase.command.url' of '*****'
+[2024-01-26 12:36:35] FINE [liquibase.configuration] No configuration value for liquibase.command.update.username found
+[2024-01-26 12:36:35] FINE [liquibase.configuration] Found 'liquibase.command.username' configuration of 'sa'
+    file exists at path liquibase.properties 'liquibase.command.username' of 'sa'
+[2024-01-26 12:36:35] FINE [liquibase.command] Pipeline for command 'update: liquibase.command.core.helpers.DbUrlConnectionArgumentsCommandStep then liquibase.command.core.helpers.ShowSummaryArgument then com.datical.liquibase.ext.command.helpers.RollbackOnErrorArgument then com.datical.liquibase.ext.command.helpers.VisibleReportCommandArguments then liquibase.command.core.helpers.DbUrlConnectionCommandStep then liquibase.command.core.helpers.DatabaseChangelogCommandStep then liquibase.command.core.helpers.ChangeExecListenerCommandStep then com.datical.liquibase.ext.command.ProUpdateCommandStep
+[2024-01-26 12:36:35] FINE [liquibase.configuration] No configuration value for liquibase.outputFileEncoding found
+[2024-01-26 12:36:35] FINE [liquibase.configuration] Configuration liquibase.outputFileEncoding is using the default value of UTF-8
+[2024-01-26 12:36:35] FINE [liquibase.command] Writing output with encoding 'UTF-8'
+[2024-01-26 12:36:35] FINE [liquibase.command] Executing internal command dbUrlConnectionArguments
+[2024-01-26 12:36:35] FINE [liquibase.command] Executing internal command showSummary
+[2024-01-26 12:36:35] FINE [liquibase.configuration] Configuration liquibase.command.update.showSummary is using the default value of SUMMARY
+[2024-01-26 12:36:35] FINE [liquibase.configuration] Configuration liquibase.command.showSummary is using the default value of SUMMARY
+[2024-01-26 12:36:35] FINE [liquibase.configuration] Configuration liquibase.command.update.showSummaryOutput is using the default value of ALL
+[2024-01-26 12:36:35] FINE [liquibase.configuration] Configuration liquibase.command.showSummaryOutput is using the default value of ALL
+[2024-01-26 12:36:35] FINE [liquibase.command] Executing internal command rollbackOnError
+[2024-01-26 12:36:35] FINE [liquibase.configuration] Configuration liquibase.command.update.rollbackOnError is using the default value of false
+[2024-01-26 12:36:35] FINE [liquibase.configuration] Configuration liquibase.command.rollbackOnError is using the default value of false
+[2024-01-26 12:36:35] FINE [liquibase.command] Executing internal command reportvisible
+[2024-01-26 12:36:35] FINE [liquibase.configuration] No configuration value for liquibase.reports.enabled aka liquibase.report.enabled found
+[2024-01-26 12:36:35] FINE [liquibase.configuration] Configuration liquibase.reports.enabled is using the default value of false
+[2024-01-26 12:36:35] FINE [liquibase.configuration] No configuration value for liquibase.reports.name aka liquibase.report.name found
+[2024-01-26 12:36:35] FINE [liquibase.configuration] Configuration liquibase.reports.name is using the default value of report-dd-MMM-yyyy-HHmmss
+[2024-01-26 12:36:35] FINE [liquibase.configuration] No configuration value for liquibase.reports.path aka liquibase.report.path found
+[2024-01-26 12:36:35] FINE [liquibase.configuration] Configuration liquibase.reports.path is using the default value of .
+[2024-01-26 12:36:35] FINE [liquibase.configuration] No configuration value for liquibase.reports.format aka liquibase.report.format found
+[2024-01-26 12:36:35] FINE [liquibase.configuration] Configuration liquibase.reports.format is using the default value of HTML
+[2024-01-26 12:36:35] FINE [liquibase.command] Executing internal command dbUrlConnectionCommandStep
+[2024-01-26 12:36:35] FINE [liquibase.configuration] Configuration liquibase.command.update.skipDatabaseStep is using the default value of false
+[2024-01-26 12:36:35] FINE [liquibase.configuration] Configuration liquibase.command.skipDatabaseStep is using the default value of false
+[2024-01-26 12:36:35] FINE [liquibase.configuration] No configuration value for liquibase.liquibaseCatalogName aka liquibase.catalogName found
+[2024-01-26 12:36:35] FINE [liquibase.configuration] No configuration value for liquibase.liquibaseSchemaName aka liquibase.schemaName found
+[2024-01-26 12:36:35] FINE [liquibase.configuration] No configuration value for liquibase.databaseClass found
+[2024-01-26 12:36:35] FINE [liquibase.configuration] No configuration value for liquibase.propertyProviderClass found
+[2024-01-26 12:36:35] FINE [liquibase.configuration] No configuration value for liquibase.liquibaseTablespaceName aka liquibase.databaseChangeLogTablespaceName aka liquibase.liquibaseTableSpaceName found
+[2024-01-26 12:36:35] FINE [liquibase.configuration] No configuration value for liquibase.databaseChangelogLockTableName aka liquibase.databaseChangeLogLockTableName found
+[2024-01-26 12:36:35] FINE [liquibase.configuration] Configuration liquibase.databaseChangelogLockTableName is using the default value of DATABASECHANGELOGLOCK
+[2024-01-26 12:36:35] FINE [liquibase.configuration] No configuration value for liquibase.databaseChangelogTableName aka liquibase.databaseChangeLogTableName found
+[2024-01-26 12:36:35] FINE [liquibase.configuration] Configuration liquibase.databaseChangelogTableName is using the default value of DATABASECHANGELOG
+[2024-01-26 12:36:35] FINE [liquibase.database] Properties:
+[2024-01-26 12:36:35] FINE [liquibase.database] Key:'password' Value:'**********'
+[2024-01-26 12:36:35] FINE [liquibase.database] Key:'user' Value:'sa'
+[2024-01-26 12:36:35] FINE [liquibase.database] Connecting to the URL:'jdbc:sqlserver://DESKTOP-F22LNIE;portNumber=1433;databaseName=test;integratedSecurity=true;encrypt=true;trustServerCertificate=true;' using driver:'com.microsoft.sqlserver.jdbc.SQLServerDriver'
+[2024-01-26 12:36:35] FINE [liquibase.servicelocator] Loaded liquibase.database.DatabaseConnection instance liquibase.database.jvm.JdbcConnection
+[2024-01-26 12:36:35] FINE [liquibase.servicelocator] Loaded liquibase.database.DatabaseConnection instance com.datical.liquibase.ext.database.jvm.ProJdbcConnection
+[2024-01-26 12:37:04] INFO [liquibase.command] Command execution complete
+[2024-01-26 12:37:04] SEVERE [liquibase.integration] class java.lang.UnsatisfiedLinkError cannot be cast to class java.lang.Exception (java.lang.UnsatisfiedLinkError and java.lang.Exception are in module java.base of loader 'bootstrap')
+liquibase.exception.CommandExecutionException: java.lang.ClassCastException: class java.lang.UnsatisfiedLinkError cannot be cast to class java.lang.Exception (java.lang.UnsatisfiedLinkError and java.lang.Exception are in module java.base of loader 'bootstrap')
+	at liquibase.command.CommandScope.execute(CommandScope.java:253)
+	at liquibase.integration.commandline.CommandRunner.call(CommandRunner.java:55)
+	at liquibase.integration.commandline.CommandRunner.call(CommandRunner.java:24)
+	at picocli.CommandLine.executeUserObject(CommandLine.java:2041)
+	at picocli.CommandLine.access$1500(CommandLine.java:148)
+	at picocli.CommandLine$RunLast.executeUserObjectOfLastSubcommandWithSameParent(CommandLine.java:2461)
+	at picocli.CommandLine$RunLast.handle(CommandLine.java:2453)
+	at picocli.CommandLine$RunLast.handle(CommandLine.java:2415)
+	at picocli.CommandLine$AbstractParseResultHandler.execute(CommandLine.java:2273)
+	at picocli.CommandLine$RunLast.execute(CommandLine.java:2417)
+	at picocli.CommandLine.execute(CommandLine.java:2170)
+	at liquibase.integration.commandline.LiquibaseCommandLine.lambda$execute$2(LiquibaseCommandLine.java:391)
+	at liquibase.Scope.child(Scope.java:195)
+	at liquibase.Scope.child(Scope.java:171)
+	at liquibase.integration.commandline.LiquibaseCommandLine.lambda$execute$3(LiquibaseCommandLine.java:366)
+	at liquibase.Scope.child(Scope.java:195)
+	at liquibase.Scope.child(Scope.java:171)
+	at liquibase.integration.commandline.LiquibaseCommandLine.execute(LiquibaseCommandLine.java:363)
+	at liquibase.integration.commandline.LiquibaseCommandLine.main(LiquibaseCommandLine.java:103)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at liquibase.integration.commandline.LiquibaseLauncher.main(LiquibaseLauncher.java:116)
+Caused by: java.lang.ClassCastException: class java.lang.UnsatisfiedLinkError cannot be cast to class java.lang.Exception (java.lang.UnsatisfiedLinkError and java.lang.Exception are in module java.base of loader 'bootstrap')
+	at liquibase.command.CommandScope.logPrimaryExceptionToMdc(CommandScope.java:287)
+	at liquibase.command.CommandScope.execute(CommandScope.java:245)
+	... 23 more
+
+[2024-01-26 12:37:04] INFO [liquibase.ui] Logs saved to liquibase.log
+[2024-01-26 12:38:46] FINE [liquibase.resource] Creating resourceAccessor for directory D:\7994-RND-SQL\liquibase
+[2024-01-26 12:38:46] FINE [liquibase.configuration] No configuration value for liquibase.searchPath found
+[2024-01-26 12:38:46] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\liquibase-core.jar
+[2024-01-26 12:38:46] FINE [liquibase.resource] Creating resourceAccessor for directory C:\Program Files\liquibase\lib
+[2024-01-26 12:38:46] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\commons-collections4.jar
+[2024-01-26 12:38:46] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\commons-lang3.jar
+[2024-01-26 12:38:46] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\commons-text.jar
+[2024-01-26 12:38:46] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\h2.jar
+[2024-01-26 12:38:46] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\hsqldb.jar
+[2024-01-26 12:38:46] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\jaxb-api.jar
+[2024-01-26 12:38:46] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\jaxb-core.jar
+[2024-01-26 12:38:46] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\jaxb-runtime.jar
+[2024-01-26 12:38:46] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\jaybird.jar
+[2024-01-26 12:38:46] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\jcc.jar
+[2024-01-26 12:38:46] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\liquibase-commercial.jar
+[2024-01-26 12:38:46] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\mariadb-java-client.jar
+[2024-01-26 12:38:46] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\mssql-jdbc.jar
+[2024-01-26 12:38:46] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\ojdbc8.jar
+[2024-01-26 12:38:46] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\opencsv.jar
+[2024-01-26 12:38:46] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\picocli.jar
+[2024-01-26 12:38:46] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\postgresql.jar
+[2024-01-26 12:38:46] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\snakeyaml.jar
+[2024-01-26 12:38:46] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\snowflake-jdbc.jar
+[2024-01-26 12:38:46] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\sqlite-jdbc.jar
+[2024-01-26 12:38:46] FINE [liquibase.resource] Creating resourceAccessor for directory C:\Program Files\liquibase\internal\lib
+[2024-01-26 12:38:46] FINE [liquibase.resource] Overall search path: 
+  - D:\7994-RND-SQL\liquibase
+  - C:\Program Files\liquibase\internal\lib\liquibase-core.jar
+  - C:\Program Files\liquibase\lib
+  - C:\Program Files\liquibase\internal\lib\commons-collections4.jar
+  - C:\Program Files\liquibase\internal\lib\commons-lang3.jar
+  - C:\Program Files\liquibase\internal\lib\commons-text.jar
+  - C:\Program Files\liquibase\internal\lib\h2.jar
+  - C:\Program Files\liquibase\internal\lib\hsqldb.jar
+  - C:\Program Files\liquibase\internal\lib\jaxb-api.jar
+  - C:\Program Files\liquibase\internal\lib\jaxb-core.jar
+  - C:\Program Files\liquibase\internal\lib\jaxb-runtime.jar
+  - C:\Program Files\liquibase\internal\lib\jaybird.jar
+  - C:\Program Files\liquibase\internal\lib\jcc.jar
+  - C:\Program Files\liquibase\internal\lib\liquibase-commercial.jar
+  - C:\Program Files\liquibase\internal\lib\mariadb-java-client.jar
+  - C:\Program Files\liquibase\internal\lib\mssql-jdbc.jar
+  - C:\Program Files\liquibase\internal\lib\ojdbc8.jar
+  - C:\Program Files\liquibase\internal\lib\opencsv.jar
+  - C:\Program Files\liquibase\internal\lib\picocli.jar
+  - C:\Program Files\liquibase\internal\lib\postgresql.jar
+  - C:\Program Files\liquibase\internal\lib\snakeyaml.jar
+  - C:\Program Files\liquibase\internal\lib\snowflake-jdbc.jar
+  - C:\Program Files\liquibase\internal\lib\sqlite-jdbc.jar
+  - C:\Program Files\liquibase\internal\lib
+[2024-01-26 12:38:46] FINE [liquibase.configuration] No configuration value for liquibase.uiService found
+[2024-01-26 12:38:46] FINE [liquibase.configuration] Configuration liquibase.uiService is using the default value of CONSOLE
+[2024-01-26 12:38:46] FINE [liquibase.configuration] No configuration value for liquibase.mirrorConsoleMessagesToLog found
+[2024-01-26 12:38:46] FINE [liquibase.configuration] Configuration liquibase.mirrorConsoleMessagesToLog is using the default value of true
+[2024-01-26 12:38:46] FINE [liquibase.configuration] No configuration value for liquibase.shouldRun aka should.run found
+[2024-01-26 12:38:46] FINE [liquibase.configuration] Configuration liquibase.shouldRun is using the default value of true
+[2024-01-26 12:38:46] FINE [liquibase.configuration] No configuration value for liquibase.showBanner found
+[2024-01-26 12:38:46] FINE [liquibase.configuration] Configuration liquibase.showBanner is using the default value of true
+[2024-01-26 12:38:46] INFO [liquibase.ui] ####################################################
+##   _     _             _ _                      ##
+##  | |   (_)           (_) |                     ##
+##  | |    _  __ _ _   _ _| |__   __ _ ___  ___   ##
+##  | |   | |/ _` | | | | | '_ \ / _` / __|/ _ \  ##
+##  | |___| | (_| | |_| | | |_) | (_| \__ \  __/  ##
+##  \_____/_|\__, |\__,_|_|_.__/ \__,_|___/\___|  ##
+##              | |                               ##
+##              |_|                               ##
+##                                                ## 
+##  Get documentation at docs.liquibase.com       ##
+##  Get certified courses at learn.liquibase.com  ## 
+##                                                ##
+####################################################
+Starting Liquibase at 12:38:46 (version 4.25.1 #690 built at 2023-12-18 16:29+0000)
+[2024-01-26 12:38:46] INFO [liquibase.ui] Liquibase Version: 4.25.1
+[2024-01-26 12:38:46] INFO [liquibase.ui] Liquibase Open Source 4.25.1 by Liquibase
+[2024-01-26 12:38:46] FINE [liquibase.configuration] No configuration value for liquibase.monitorPerformance found
+[2024-01-26 12:38:46] FINE [liquibase.configuration] Configuration liquibase.monitorPerformance is using the default value of false
+[2024-01-26 12:38:46] FINE [liquibase.integration] Performance monitoring disabled
+[2024-01-26 12:38:46] INFO [liquibase.integration] Starting command execution.
+[2024-01-26 12:38:46] FINE [liquibase.command] Found ProUpdateCommandStep override for UpdateCommandStep! Using ProUpdateCommandStep in pipeline.
+[2024-01-26 12:38:46] FINE [liquibase.configuration] No configuration value for liquibase.outputFile found
+[2024-01-26 12:38:46] FINE [liquibase.configuration] No configuration value for liquibase.strict found
+[2024-01-26 12:38:46] FINE [liquibase.configuration] Configuration liquibase.strict is using the default value of false
+[2024-01-26 12:38:46] FINE [liquibase.configuration] No configuration value for liquibase.command.update.changeExecListener found
+[2024-01-26 12:38:46] FINE [liquibase.configuration] No configuration value for liquibase.command.changeExecListener found
+[2024-01-26 12:38:46] FINE [liquibase.configuration] No configuration value for liquibase.command.update.changeExecListenerClass found
+[2024-01-26 12:38:46] FINE [liquibase.configuration] No configuration value for liquibase.command.changeExecListenerClass found
+[2024-01-26 12:38:46] FINE [liquibase.configuration] No configuration value for liquibase.command.update.changeExecListenerPropertiesFile found
+[2024-01-26 12:38:46] FINE [liquibase.configuration] No configuration value for liquibase.command.changeExecListenerPropertiesFile found
+[2024-01-26 12:38:46] FINE [liquibase.configuration] No configuration value for liquibase.command.update.changelogFile found
+[2024-01-26 12:38:46] FINE [liquibase.configuration] Found 'liquibase.command.changelogFile' configuration of 'example-changelog.xml'
+    command argument '--changelog-file' of 'example-changelog.xml'
+    Overrides file exists at path liquibase.properties 'changeLogFile' of 'example-changelog.xml'
+[2024-01-26 12:38:46] FINE [liquibase.configuration] No configuration value for liquibase.command.update.changelogParameters found
+[2024-01-26 12:38:46] FINE [liquibase.configuration] No configuration value for liquibase.command.changelogParameters found
+[2024-01-26 12:38:46] FINE [liquibase.configuration] No configuration value for liquibase.command.update.contextFilter aka liquibase.command.update.contexts found
+[2024-01-26 12:38:46] FINE [liquibase.configuration] No configuration value for liquibase.command.contextFilter aka liquibase.command.contexts found
+[2024-01-26 12:38:46] FINE [liquibase.configuration] No configuration value for liquibase.command.update.database found
+[2024-01-26 12:38:46] FINE [liquibase.configuration] No configuration value for liquibase.command.database found
+[2024-01-26 12:38:46] FINE [liquibase.configuration] No configuration value for liquibase.command.update.databaseChangelog found
+[2024-01-26 12:38:46] FINE [liquibase.configuration] No configuration value for liquibase.command.databaseChangelog found
+[2024-01-26 12:38:46] FINE [liquibase.configuration] No configuration value for liquibase.command.update.defaultCatalogName found
+[2024-01-26 12:38:46] FINE [liquibase.configuration] No configuration value for liquibase.command.defaultCatalogName found
+[2024-01-26 12:38:46] FINE [liquibase.configuration] No configuration value for liquibase.command.update.defaultSchemaName found
+[2024-01-26 12:38:46] FINE [liquibase.configuration] No configuration value for liquibase.command.defaultSchemaName found
+[2024-01-26 12:38:46] FINE [liquibase.configuration] No configuration value for liquibase.command.update.driver found
+[2024-01-26 12:38:46] FINE [liquibase.configuration] No configuration value for liquibase.command.driver found
+[2024-01-26 12:38:46] FINE [liquibase.configuration] No configuration value for liquibase.command.update.driverPropertiesFile found
+[2024-01-26 12:38:46] FINE [liquibase.configuration] No configuration value for liquibase.command.driverPropertiesFile found
+[2024-01-26 12:38:46] FINE [liquibase.configuration] No configuration value for liquibase.command.update.labelFilter aka liquibase.command.update.labels found
+[2024-01-26 12:38:46] FINE [liquibase.configuration] No configuration value for liquibase.command.labelFilter aka liquibase.command.labels found
+[2024-01-26 12:38:46] FINE [liquibase.configuration] No configuration value for liquibase.command.update.password found
+[2024-01-26 12:38:46] FINE [liquibase.configuration] Found 'liquibase.command.password' configuration of '*****'
+    file exists at path liquibase.properties 'liquibase.command.password' of '*****'
+[2024-01-26 12:38:46] FINE [liquibase.configuration] No configuration value for liquibase.command.update.reportEnabled aka liquibase.command.update.reportsEnabled found
+[2024-01-26 12:38:46] FINE [liquibase.configuration] No configuration value for liquibase.command.reportEnabled aka liquibase.command.reportsEnabled found
+[2024-01-26 12:38:46] FINE [liquibase.configuration] No configuration value for liquibase.command.update.reportFormat aka liquibase.command.update.reportsFormat found
+[2024-01-26 12:38:46] FINE [liquibase.configuration] No configuration value for liquibase.command.reportFormat aka liquibase.command.reportsFormat found
+[2024-01-26 12:38:46] FINE [liquibase.configuration] No configuration value for liquibase.command.update.reportName aka liquibase.command.update.reportsName found
+[2024-01-26 12:38:46] FINE [liquibase.configuration] No configuration value for liquibase.command.reportName aka liquibase.command.reportsName found
+[2024-01-26 12:38:46] FINE [liquibase.configuration] No configuration value for liquibase.command.update.reportPath aka liquibase.command.update.reportsPath found
+[2024-01-26 12:38:46] FINE [liquibase.configuration] No configuration value for liquibase.command.reportPath aka liquibase.command.reportsPath found
+[2024-01-26 12:38:46] FINE [liquibase.configuration] No configuration value for liquibase.command.update.rollbackOnError found
+[2024-01-26 12:38:46] FINE [liquibase.configuration] Configuration liquibase.command.update.rollbackOnError is using the default value of false
+[2024-01-26 12:38:46] FINE [liquibase.configuration] No configuration value for liquibase.command.rollbackOnError found
+[2024-01-26 12:38:46] FINE [liquibase.configuration] Configuration liquibase.command.rollbackOnError is using the default value of false
+[2024-01-26 12:38:46] FINE [liquibase.configuration] No configuration value for liquibase.command.update.showSummary found
+[2024-01-26 12:38:46] FINE [liquibase.configuration] Configuration liquibase.command.update.showSummary is using the default value of SUMMARY
+[2024-01-26 12:38:46] FINE [liquibase.configuration] No configuration value for liquibase.command.showSummary found
+[2024-01-26 12:38:46] FINE [liquibase.configuration] Configuration liquibase.command.showSummary is using the default value of SUMMARY
+[2024-01-26 12:38:46] FINE [liquibase.configuration] No configuration value for liquibase.command.update.showSummaryOutput found
+[2024-01-26 12:38:46] FINE [liquibase.configuration] Configuration liquibase.command.update.showSummaryOutput is using the default value of ALL
+[2024-01-26 12:38:46] FINE [liquibase.configuration] No configuration value for liquibase.command.showSummaryOutput found
+[2024-01-26 12:38:46] FINE [liquibase.configuration] Configuration liquibase.command.showSummaryOutput is using the default value of ALL
+[2024-01-26 12:38:46] FINE [liquibase.configuration] No configuration value for liquibase.command.update.skipDatabaseStep found
+[2024-01-26 12:38:46] FINE [liquibase.configuration] Configuration liquibase.command.update.skipDatabaseStep is using the default value of false
+[2024-01-26 12:38:46] FINE [liquibase.configuration] No configuration value for liquibase.command.skipDatabaseStep found
+[2024-01-26 12:38:46] FINE [liquibase.configuration] Configuration liquibase.command.skipDatabaseStep is using the default value of false
+[2024-01-26 12:38:46] FINE [liquibase.configuration] No configuration value for liquibase.command.update.updateNullChecksums found
+[2024-01-26 12:38:46] FINE [liquibase.configuration] Configuration liquibase.command.update.updateNullChecksums is using the default value of false
+[2024-01-26 12:38:46] FINE [liquibase.configuration] No configuration value for liquibase.command.updateNullChecksums found
+[2024-01-26 12:38:46] FINE [liquibase.configuration] Configuration liquibase.command.updateNullChecksums is using the default value of false
+[2024-01-26 12:38:46] FINE [liquibase.configuration] No configuration value for liquibase.command.update.url found
+[2024-01-26 12:38:46] FINE [liquibase.servicelocator] Loaded liquibase.database.jvm.ConnectionPatterns instance liquibase.database.jvm.JdbcConnectionPatterns
+[2024-01-26 12:38:46] FINE [liquibase.configuration] Found 'liquibase.command.url' configuration of 'jdbc:sqlserver://DESKTOP-F22LNIE;portNumber=1433;databaseName=test;integratedSecurity=true;encrypt=true;trustServerCertificate=true;'
+    file exists at path liquibase.properties 'liquibase.command.url' of '*****'
+[2024-01-26 12:38:46] FINE [liquibase.configuration] No configuration value for liquibase.command.update.username found
+[2024-01-26 12:38:46] FINE [liquibase.configuration] Found 'liquibase.command.username' configuration of 'sa'
+    file exists at path liquibase.properties 'liquibase.command.username' of 'sa'
+[2024-01-26 12:38:46] FINE [liquibase.command] Pipeline for command 'update: liquibase.command.core.helpers.DbUrlConnectionArgumentsCommandStep then liquibase.command.core.helpers.ShowSummaryArgument then com.datical.liquibase.ext.command.helpers.RollbackOnErrorArgument then com.datical.liquibase.ext.command.helpers.VisibleReportCommandArguments then liquibase.command.core.helpers.DbUrlConnectionCommandStep then liquibase.command.core.helpers.DatabaseChangelogCommandStep then liquibase.command.core.helpers.ChangeExecListenerCommandStep then com.datical.liquibase.ext.command.ProUpdateCommandStep
+[2024-01-26 12:38:46] FINE [liquibase.configuration] No configuration value for liquibase.outputFileEncoding found
+[2024-01-26 12:38:46] FINE [liquibase.configuration] Configuration liquibase.outputFileEncoding is using the default value of UTF-8
+[2024-01-26 12:38:46] FINE [liquibase.command] Writing output with encoding 'UTF-8'
+[2024-01-26 12:38:46] FINE [liquibase.command] Executing internal command dbUrlConnectionArguments
+[2024-01-26 12:38:46] FINE [liquibase.command] Executing internal command showSummary
+[2024-01-26 12:38:46] FINE [liquibase.configuration] Configuration liquibase.command.update.showSummary is using the default value of SUMMARY
+[2024-01-26 12:38:46] FINE [liquibase.configuration] Configuration liquibase.command.showSummary is using the default value of SUMMARY
+[2024-01-26 12:38:46] FINE [liquibase.configuration] Configuration liquibase.command.update.showSummaryOutput is using the default value of ALL
+[2024-01-26 12:38:46] FINE [liquibase.configuration] Configuration liquibase.command.showSummaryOutput is using the default value of ALL
+[2024-01-26 12:38:46] FINE [liquibase.command] Executing internal command rollbackOnError
+[2024-01-26 12:38:46] FINE [liquibase.configuration] Configuration liquibase.command.update.rollbackOnError is using the default value of false
+[2024-01-26 12:38:46] FINE [liquibase.configuration] Configuration liquibase.command.rollbackOnError is using the default value of false
+[2024-01-26 12:38:46] FINE [liquibase.command] Executing internal command reportvisible
+[2024-01-26 12:38:46] FINE [liquibase.configuration] No configuration value for liquibase.reports.enabled aka liquibase.report.enabled found
+[2024-01-26 12:38:46] FINE [liquibase.configuration] Configuration liquibase.reports.enabled is using the default value of false
+[2024-01-26 12:38:46] FINE [liquibase.configuration] No configuration value for liquibase.reports.name aka liquibase.report.name found
+[2024-01-26 12:38:46] FINE [liquibase.configuration] Configuration liquibase.reports.name is using the default value of report-dd-MMM-yyyy-HHmmss
+[2024-01-26 12:38:46] FINE [liquibase.configuration] No configuration value for liquibase.reports.path aka liquibase.report.path found
+[2024-01-26 12:38:46] FINE [liquibase.configuration] Configuration liquibase.reports.path is using the default value of .
+[2024-01-26 12:38:46] FINE [liquibase.configuration] No configuration value for liquibase.reports.format aka liquibase.report.format found
+[2024-01-26 12:38:46] FINE [liquibase.configuration] Configuration liquibase.reports.format is using the default value of HTML
+[2024-01-26 12:38:46] FINE [liquibase.command] Executing internal command dbUrlConnectionCommandStep
+[2024-01-26 12:38:46] FINE [liquibase.configuration] Configuration liquibase.command.update.skipDatabaseStep is using the default value of false
+[2024-01-26 12:38:46] FINE [liquibase.configuration] Configuration liquibase.command.skipDatabaseStep is using the default value of false
+[2024-01-26 12:38:46] FINE [liquibase.configuration] No configuration value for liquibase.liquibaseCatalogName aka liquibase.catalogName found
+[2024-01-26 12:38:46] FINE [liquibase.configuration] No configuration value for liquibase.liquibaseSchemaName aka liquibase.schemaName found
+[2024-01-26 12:38:46] FINE [liquibase.configuration] No configuration value for liquibase.databaseClass found
+[2024-01-26 12:38:46] FINE [liquibase.configuration] No configuration value for liquibase.propertyProviderClass found
+[2024-01-26 12:38:46] FINE [liquibase.configuration] No configuration value for liquibase.liquibaseTablespaceName aka liquibase.databaseChangeLogTablespaceName aka liquibase.liquibaseTableSpaceName found
+[2024-01-26 12:38:46] FINE [liquibase.configuration] No configuration value for liquibase.databaseChangelogLockTableName aka liquibase.databaseChangeLogLockTableName found
+[2024-01-26 12:38:46] FINE [liquibase.configuration] Configuration liquibase.databaseChangelogLockTableName is using the default value of DATABASECHANGELOGLOCK
+[2024-01-26 12:38:46] FINE [liquibase.configuration] No configuration value for liquibase.databaseChangelogTableName aka liquibase.databaseChangeLogTableName found
+[2024-01-26 12:38:46] FINE [liquibase.configuration] Configuration liquibase.databaseChangelogTableName is using the default value of DATABASECHANGELOG
+[2024-01-26 12:38:46] FINE [liquibase.database] Properties:
+[2024-01-26 12:38:46] FINE [liquibase.database] Key:'password' Value:'**********'
+[2024-01-26 12:38:46] FINE [liquibase.database] Key:'user' Value:'sa'
+[2024-01-26 12:38:46] FINE [liquibase.database] Connecting to the URL:'jdbc:sqlserver://DESKTOP-F22LNIE;portNumber=1433;databaseName=test;integratedSecurity=true;encrypt=true;trustServerCertificate=true;' using driver:'com.microsoft.sqlserver.jdbc.SQLServerDriver'
+[2024-01-26 12:38:46] FINE [liquibase.servicelocator] Loaded liquibase.database.DatabaseConnection instance liquibase.database.jvm.JdbcConnection
+[2024-01-26 12:38:46] FINE [liquibase.servicelocator] Loaded liquibase.database.DatabaseConnection instance com.datical.liquibase.ext.database.jvm.ProJdbcConnection
+[2024-01-26 12:39:16] INFO [liquibase.command] Command execution complete
+[2024-01-26 12:39:16] SEVERE [liquibase.integration] class java.lang.UnsatisfiedLinkError cannot be cast to class java.lang.Exception (java.lang.UnsatisfiedLinkError and java.lang.Exception are in module java.base of loader 'bootstrap')
+liquibase.exception.CommandExecutionException: java.lang.ClassCastException: class java.lang.UnsatisfiedLinkError cannot be cast to class java.lang.Exception (java.lang.UnsatisfiedLinkError and java.lang.Exception are in module java.base of loader 'bootstrap')
+	at liquibase.command.CommandScope.execute(CommandScope.java:253)
+	at liquibase.integration.commandline.CommandRunner.call(CommandRunner.java:55)
+	at liquibase.integration.commandline.CommandRunner.call(CommandRunner.java:24)
+	at picocli.CommandLine.executeUserObject(CommandLine.java:2041)
+	at picocli.CommandLine.access$1500(CommandLine.java:148)
+	at picocli.CommandLine$RunLast.executeUserObjectOfLastSubcommandWithSameParent(CommandLine.java:2461)
+	at picocli.CommandLine$RunLast.handle(CommandLine.java:2453)
+	at picocli.CommandLine$RunLast.handle(CommandLine.java:2415)
+	at picocli.CommandLine$AbstractParseResultHandler.execute(CommandLine.java:2273)
+	at picocli.CommandLine$RunLast.execute(CommandLine.java:2417)
+	at picocli.CommandLine.execute(CommandLine.java:2170)
+	at liquibase.integration.commandline.LiquibaseCommandLine.lambda$execute$2(LiquibaseCommandLine.java:391)
+	at liquibase.Scope.child(Scope.java:195)
+	at liquibase.Scope.child(Scope.java:171)
+	at liquibase.integration.commandline.LiquibaseCommandLine.lambda$execute$3(LiquibaseCommandLine.java:366)
+	at liquibase.Scope.child(Scope.java:195)
+	at liquibase.Scope.child(Scope.java:171)
+	at liquibase.integration.commandline.LiquibaseCommandLine.execute(LiquibaseCommandLine.java:363)
+	at liquibase.integration.commandline.LiquibaseCommandLine.main(LiquibaseCommandLine.java:103)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at liquibase.integration.commandline.LiquibaseLauncher.main(LiquibaseLauncher.java:116)
+Caused by: java.lang.ClassCastException: class java.lang.UnsatisfiedLinkError cannot be cast to class java.lang.Exception (java.lang.UnsatisfiedLinkError and java.lang.Exception are in module java.base of loader 'bootstrap')
+	at liquibase.command.CommandScope.logPrimaryExceptionToMdc(CommandScope.java:287)
+	at liquibase.command.CommandScope.execute(CommandScope.java:245)
+	... 23 more
+
+[2024-01-26 12:39:16] INFO [liquibase.ui] Logs saved to liquibase.log
+[2024-01-26 12:39:56] FINE [liquibase.resource] Creating resourceAccessor for directory D:\7994-RND-SQL\liquibase
+[2024-01-26 12:39:56] FINE [liquibase.configuration] No configuration value for liquibase.searchPath found
+[2024-01-26 12:39:56] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\liquibase-core.jar
+[2024-01-26 12:39:56] FINE [liquibase.resource] Creating resourceAccessor for directory C:\Program Files\liquibase\lib
+[2024-01-26 12:39:56] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\commons-collections4.jar
+[2024-01-26 12:39:56] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\commons-lang3.jar
+[2024-01-26 12:39:56] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\commons-text.jar
+[2024-01-26 12:39:56] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\h2.jar
+[2024-01-26 12:39:56] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\hsqldb.jar
+[2024-01-26 12:39:56] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\jaxb-api.jar
+[2024-01-26 12:39:56] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\jaxb-core.jar
+[2024-01-26 12:39:56] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\jaxb-runtime.jar
+[2024-01-26 12:39:56] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\jaybird.jar
+[2024-01-26 12:39:56] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\jcc.jar
+[2024-01-26 12:39:56] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\liquibase-commercial.jar
+[2024-01-26 12:39:56] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\mariadb-java-client.jar
+[2024-01-26 12:39:56] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\mssql-jdbc.jar
+[2024-01-26 12:39:56] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\ojdbc8.jar
+[2024-01-26 12:39:56] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\opencsv.jar
+[2024-01-26 12:39:56] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\picocli.jar
+[2024-01-26 12:39:56] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\postgresql.jar
+[2024-01-26 12:39:56] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\snakeyaml.jar
+[2024-01-26 12:39:56] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\snowflake-jdbc.jar
+[2024-01-26 12:39:56] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\sqlite-jdbc.jar
+[2024-01-26 12:39:56] FINE [liquibase.resource] Creating resourceAccessor for directory C:\Program Files\liquibase\internal\lib
+[2024-01-26 12:39:56] FINE [liquibase.resource] Overall search path: 
+  - D:\7994-RND-SQL\liquibase
+  - C:\Program Files\liquibase\internal\lib\liquibase-core.jar
+  - C:\Program Files\liquibase\lib
+  - C:\Program Files\liquibase\internal\lib\commons-collections4.jar
+  - C:\Program Files\liquibase\internal\lib\commons-lang3.jar
+  - C:\Program Files\liquibase\internal\lib\commons-text.jar
+  - C:\Program Files\liquibase\internal\lib\h2.jar
+  - C:\Program Files\liquibase\internal\lib\hsqldb.jar
+  - C:\Program Files\liquibase\internal\lib\jaxb-api.jar
+  - C:\Program Files\liquibase\internal\lib\jaxb-core.jar
+  - C:\Program Files\liquibase\internal\lib\jaxb-runtime.jar
+  - C:\Program Files\liquibase\internal\lib\jaybird.jar
+  - C:\Program Files\liquibase\internal\lib\jcc.jar
+  - C:\Program Files\liquibase\internal\lib\liquibase-commercial.jar
+  - C:\Program Files\liquibase\internal\lib\mariadb-java-client.jar
+  - C:\Program Files\liquibase\internal\lib\mssql-jdbc.jar
+  - C:\Program Files\liquibase\internal\lib\ojdbc8.jar
+  - C:\Program Files\liquibase\internal\lib\opencsv.jar
+  - C:\Program Files\liquibase\internal\lib\picocli.jar
+  - C:\Program Files\liquibase\internal\lib\postgresql.jar
+  - C:\Program Files\liquibase\internal\lib\snakeyaml.jar
+  - C:\Program Files\liquibase\internal\lib\snowflake-jdbc.jar
+  - C:\Program Files\liquibase\internal\lib\sqlite-jdbc.jar
+  - C:\Program Files\liquibase\internal\lib
+[2024-01-26 12:39:56] FINE [liquibase.configuration] No configuration value for liquibase.uiService found
+[2024-01-26 12:39:56] FINE [liquibase.configuration] Configuration liquibase.uiService is using the default value of CONSOLE
+[2024-01-26 12:39:56] FINE [liquibase.configuration] No configuration value for liquibase.mirrorConsoleMessagesToLog found
+[2024-01-26 12:39:56] FINE [liquibase.configuration] Configuration liquibase.mirrorConsoleMessagesToLog is using the default value of true
+[2024-01-26 12:39:56] FINE [liquibase.configuration] No configuration value for liquibase.shouldRun aka should.run found
+[2024-01-26 12:39:56] FINE [liquibase.configuration] Configuration liquibase.shouldRun is using the default value of true
+[2024-01-26 12:39:56] FINE [liquibase.configuration] No configuration value for liquibase.showBanner found
+[2024-01-26 12:39:56] FINE [liquibase.configuration] Configuration liquibase.showBanner is using the default value of true
+[2024-01-26 12:39:56] INFO [liquibase.ui] ####################################################
+##   _     _             _ _                      ##
+##  | |   (_)           (_) |                     ##
+##  | |    _  __ _ _   _ _| |__   __ _ ___  ___   ##
+##  | |   | |/ _` | | | | | '_ \ / _` / __|/ _ \  ##
+##  | |___| | (_| | |_| | | |_) | (_| \__ \  __/  ##
+##  \_____/_|\__, |\__,_|_|_.__/ \__,_|___/\___|  ##
+##              | |                               ##
+##              |_|                               ##
+##                                                ## 
+##  Get documentation at docs.liquibase.com       ##
+##  Get certified courses at learn.liquibase.com  ## 
+##                                                ##
+####################################################
+Starting Liquibase at 12:39:56 (version 4.25.1 #690 built at 2023-12-18 16:29+0000)
+[2024-01-26 12:39:56] INFO [liquibase.ui] Liquibase Version: 4.25.1
+[2024-01-26 12:39:56] INFO [liquibase.ui] Liquibase Open Source 4.25.1 by Liquibase
+[2024-01-26 12:39:56] FINE [liquibase.configuration] No configuration value for liquibase.monitorPerformance found
+[2024-01-26 12:39:56] FINE [liquibase.configuration] Configuration liquibase.monitorPerformance is using the default value of false
+[2024-01-26 12:39:56] FINE [liquibase.integration] Performance monitoring disabled
+[2024-01-26 12:39:56] INFO [liquibase.integration] Starting command execution.
+[2024-01-26 12:39:56] FINE [liquibase.command] Found ProUpdateCommandStep override for UpdateCommandStep! Using ProUpdateCommandStep in pipeline.
+[2024-01-26 12:39:56] FINE [liquibase.configuration] No configuration value for liquibase.outputFile found
+[2024-01-26 12:39:56] FINE [liquibase.configuration] No configuration value for liquibase.strict found
+[2024-01-26 12:39:56] FINE [liquibase.configuration] Configuration liquibase.strict is using the default value of false
+[2024-01-26 12:39:56] FINE [liquibase.configuration] No configuration value for liquibase.command.update.changeExecListener found
+[2024-01-26 12:39:56] FINE [liquibase.configuration] No configuration value for liquibase.command.changeExecListener found
+[2024-01-26 12:39:56] FINE [liquibase.configuration] No configuration value for liquibase.command.update.changeExecListenerClass found
+[2024-01-26 12:39:56] FINE [liquibase.configuration] No configuration value for liquibase.command.changeExecListenerClass found
+[2024-01-26 12:39:56] FINE [liquibase.configuration] No configuration value for liquibase.command.update.changeExecListenerPropertiesFile found
+[2024-01-26 12:39:56] FINE [liquibase.configuration] No configuration value for liquibase.command.changeExecListenerPropertiesFile found
+[2024-01-26 12:39:56] FINE [liquibase.configuration] No configuration value for liquibase.command.update.changelogFile found
+[2024-01-26 12:39:56] FINE [liquibase.configuration] Found 'liquibase.command.changelogFile' configuration of 'example-changeLog.sql'
+    command argument '--changelog-file' of 'example-changeLog.sql'
+    Overrides file exists at path liquibase.properties 'changeLogFile' of 'example-changelog.xml'
+[2024-01-26 12:39:56] FINE [liquibase.configuration] No configuration value for liquibase.command.update.changelogParameters found
+[2024-01-26 12:39:56] FINE [liquibase.configuration] No configuration value for liquibase.command.changelogParameters found
+[2024-01-26 12:39:56] FINE [liquibase.configuration] No configuration value for liquibase.command.update.contextFilter aka liquibase.command.update.contexts found
+[2024-01-26 12:39:56] FINE [liquibase.configuration] No configuration value for liquibase.command.contextFilter aka liquibase.command.contexts found
+[2024-01-26 12:39:56] FINE [liquibase.configuration] No configuration value for liquibase.command.update.database found
+[2024-01-26 12:39:56] FINE [liquibase.configuration] No configuration value for liquibase.command.database found
+[2024-01-26 12:39:56] FINE [liquibase.configuration] No configuration value for liquibase.command.update.databaseChangelog found
+[2024-01-26 12:39:56] FINE [liquibase.configuration] No configuration value for liquibase.command.databaseChangelog found
+[2024-01-26 12:39:56] FINE [liquibase.configuration] No configuration value for liquibase.command.update.defaultCatalogName found
+[2024-01-26 12:39:56] FINE [liquibase.configuration] No configuration value for liquibase.command.defaultCatalogName found
+[2024-01-26 12:39:56] FINE [liquibase.configuration] No configuration value for liquibase.command.update.defaultSchemaName found
+[2024-01-26 12:39:56] FINE [liquibase.configuration] No configuration value for liquibase.command.defaultSchemaName found
+[2024-01-26 12:39:56] FINE [liquibase.configuration] No configuration value for liquibase.command.update.driver found
+[2024-01-26 12:39:56] FINE [liquibase.configuration] No configuration value for liquibase.command.driver found
+[2024-01-26 12:39:56] FINE [liquibase.configuration] No configuration value for liquibase.command.update.driverPropertiesFile found
+[2024-01-26 12:39:56] FINE [liquibase.configuration] No configuration value for liquibase.command.driverPropertiesFile found
+[2024-01-26 12:39:56] FINE [liquibase.configuration] No configuration value for liquibase.command.update.labelFilter aka liquibase.command.update.labels found
+[2024-01-26 12:39:56] FINE [liquibase.configuration] No configuration value for liquibase.command.labelFilter aka liquibase.command.labels found
+[2024-01-26 12:39:56] FINE [liquibase.configuration] No configuration value for liquibase.command.update.password found
+[2024-01-26 12:39:56] FINE [liquibase.configuration] Found 'liquibase.command.password' configuration of '*****'
+    command argument '--password' of '*****'
+    Overrides file exists at path liquibase.properties 'liquibase.command.password' of '*****'
+[2024-01-26 12:39:56] FINE [liquibase.configuration] No configuration value for liquibase.command.update.reportEnabled aka liquibase.command.update.reportsEnabled found
+[2024-01-26 12:39:56] FINE [liquibase.configuration] No configuration value for liquibase.command.reportEnabled aka liquibase.command.reportsEnabled found
+[2024-01-26 12:39:56] FINE [liquibase.configuration] No configuration value for liquibase.command.update.reportFormat aka liquibase.command.update.reportsFormat found
+[2024-01-26 12:39:56] FINE [liquibase.configuration] No configuration value for liquibase.command.reportFormat aka liquibase.command.reportsFormat found
+[2024-01-26 12:39:56] FINE [liquibase.configuration] No configuration value for liquibase.command.update.reportName aka liquibase.command.update.reportsName found
+[2024-01-26 12:39:56] FINE [liquibase.configuration] No configuration value for liquibase.command.reportName aka liquibase.command.reportsName found
+[2024-01-26 12:39:56] FINE [liquibase.configuration] No configuration value for liquibase.command.update.reportPath aka liquibase.command.update.reportsPath found
+[2024-01-26 12:39:56] FINE [liquibase.configuration] No configuration value for liquibase.command.reportPath aka liquibase.command.reportsPath found
+[2024-01-26 12:39:56] FINE [liquibase.configuration] No configuration value for liquibase.command.update.rollbackOnError found
+[2024-01-26 12:39:56] FINE [liquibase.configuration] Configuration liquibase.command.update.rollbackOnError is using the default value of false
+[2024-01-26 12:39:56] FINE [liquibase.configuration] No configuration value for liquibase.command.rollbackOnError found
+[2024-01-26 12:39:56] FINE [liquibase.configuration] Configuration liquibase.command.rollbackOnError is using the default value of false
+[2024-01-26 12:39:56] FINE [liquibase.configuration] No configuration value for liquibase.command.update.showSummary found
+[2024-01-26 12:39:56] FINE [liquibase.configuration] Configuration liquibase.command.update.showSummary is using the default value of SUMMARY
+[2024-01-26 12:39:56] FINE [liquibase.configuration] No configuration value for liquibase.command.showSummary found
+[2024-01-26 12:39:56] FINE [liquibase.configuration] Configuration liquibase.command.showSummary is using the default value of SUMMARY
+[2024-01-26 12:39:56] FINE [liquibase.configuration] No configuration value for liquibase.command.update.showSummaryOutput found
+[2024-01-26 12:39:56] FINE [liquibase.configuration] Configuration liquibase.command.update.showSummaryOutput is using the default value of ALL
+[2024-01-26 12:39:56] FINE [liquibase.configuration] No configuration value for liquibase.command.showSummaryOutput found
+[2024-01-26 12:39:56] FINE [liquibase.configuration] Configuration liquibase.command.showSummaryOutput is using the default value of ALL
+[2024-01-26 12:39:56] FINE [liquibase.configuration] No configuration value for liquibase.command.update.skipDatabaseStep found
+[2024-01-26 12:39:56] FINE [liquibase.configuration] Configuration liquibase.command.update.skipDatabaseStep is using the default value of false
+[2024-01-26 12:39:56] FINE [liquibase.configuration] No configuration value for liquibase.command.skipDatabaseStep found
+[2024-01-26 12:39:56] FINE [liquibase.configuration] Configuration liquibase.command.skipDatabaseStep is using the default value of false
+[2024-01-26 12:39:56] FINE [liquibase.configuration] No configuration value for liquibase.command.update.updateNullChecksums found
+[2024-01-26 12:39:56] FINE [liquibase.configuration] Configuration liquibase.command.update.updateNullChecksums is using the default value of false
+[2024-01-26 12:39:56] FINE [liquibase.configuration] No configuration value for liquibase.command.updateNullChecksums found
+[2024-01-26 12:39:56] FINE [liquibase.configuration] Configuration liquibase.command.updateNullChecksums is using the default value of false
+[2024-01-26 12:39:56] FINE [liquibase.configuration] No configuration value for liquibase.command.update.url found
+[2024-01-26 12:39:56] FINE [liquibase.servicelocator] Loaded liquibase.database.jvm.ConnectionPatterns instance liquibase.database.jvm.JdbcConnectionPatterns
+[2024-01-26 12:39:56] FINE [liquibase.configuration] Found 'liquibase.command.url' configuration of 'jdbc:sqlserver://DESKTOP-F22LNIE;portNumber=1433;databaseName=test;integratedSecurity=true;encrypt=true;trustServerCertificate=true;'
+    file exists at path liquibase.properties 'liquibase.command.url' of '*****'
+[2024-01-26 12:39:56] FINE [liquibase.configuration] No configuration value for liquibase.command.update.username found
+[2024-01-26 12:39:56] FINE [liquibase.configuration] Found 'liquibase.command.username' configuration of 'sa'
+    command argument '--username' of 'sa'
+    Overrides file exists at path liquibase.properties 'liquibase.command.username' of 'sa'
+[2024-01-26 12:39:56] FINE [liquibase.command] Pipeline for command 'update: liquibase.command.core.helpers.DbUrlConnectionArgumentsCommandStep then liquibase.command.core.helpers.ShowSummaryArgument then com.datical.liquibase.ext.command.helpers.RollbackOnErrorArgument then com.datical.liquibase.ext.command.helpers.VisibleReportCommandArguments then liquibase.command.core.helpers.DbUrlConnectionCommandStep then liquibase.command.core.helpers.DatabaseChangelogCommandStep then liquibase.command.core.helpers.ChangeExecListenerCommandStep then com.datical.liquibase.ext.command.ProUpdateCommandStep
+[2024-01-26 12:39:56] FINE [liquibase.configuration] No configuration value for liquibase.outputFileEncoding found
+[2024-01-26 12:39:56] FINE [liquibase.configuration] Configuration liquibase.outputFileEncoding is using the default value of UTF-8
+[2024-01-26 12:39:56] FINE [liquibase.command] Writing output with encoding 'UTF-8'
+[2024-01-26 12:39:56] FINE [liquibase.command] Executing internal command dbUrlConnectionArguments
+[2024-01-26 12:39:56] FINE [liquibase.command] Executing internal command showSummary
+[2024-01-26 12:39:56] FINE [liquibase.configuration] Configuration liquibase.command.update.showSummary is using the default value of SUMMARY
+[2024-01-26 12:39:56] FINE [liquibase.configuration] Configuration liquibase.command.showSummary is using the default value of SUMMARY
+[2024-01-26 12:39:56] FINE [liquibase.configuration] Configuration liquibase.command.update.showSummaryOutput is using the default value of ALL
+[2024-01-26 12:39:56] FINE [liquibase.configuration] Configuration liquibase.command.showSummaryOutput is using the default value of ALL
+[2024-01-26 12:39:56] FINE [liquibase.command] Executing internal command rollbackOnError
+[2024-01-26 12:39:56] FINE [liquibase.configuration] Configuration liquibase.command.update.rollbackOnError is using the default value of false
+[2024-01-26 12:39:56] FINE [liquibase.configuration] Configuration liquibase.command.rollbackOnError is using the default value of false
+[2024-01-26 12:39:56] FINE [liquibase.command] Executing internal command reportvisible
+[2024-01-26 12:39:56] FINE [liquibase.configuration] No configuration value for liquibase.reports.enabled aka liquibase.report.enabled found
+[2024-01-26 12:39:56] FINE [liquibase.configuration] Configuration liquibase.reports.enabled is using the default value of false
+[2024-01-26 12:39:56] FINE [liquibase.configuration] No configuration value for liquibase.reports.name aka liquibase.report.name found
+[2024-01-26 12:39:56] FINE [liquibase.configuration] Configuration liquibase.reports.name is using the default value of report-dd-MMM-yyyy-HHmmss
+[2024-01-26 12:39:56] FINE [liquibase.configuration] No configuration value for liquibase.reports.path aka liquibase.report.path found
+[2024-01-26 12:39:56] FINE [liquibase.configuration] Configuration liquibase.reports.path is using the default value of .
+[2024-01-26 12:39:56] FINE [liquibase.configuration] No configuration value for liquibase.reports.format aka liquibase.report.format found
+[2024-01-26 12:39:56] FINE [liquibase.configuration] Configuration liquibase.reports.format is using the default value of HTML
+[2024-01-26 12:39:56] FINE [liquibase.command] Executing internal command dbUrlConnectionCommandStep
+[2024-01-26 12:39:56] FINE [liquibase.configuration] Configuration liquibase.command.update.skipDatabaseStep is using the default value of false
+[2024-01-26 12:39:56] FINE [liquibase.configuration] Configuration liquibase.command.skipDatabaseStep is using the default value of false
+[2024-01-26 12:39:56] FINE [liquibase.configuration] No configuration value for liquibase.liquibaseCatalogName aka liquibase.catalogName found
+[2024-01-26 12:39:56] FINE [liquibase.configuration] No configuration value for liquibase.liquibaseSchemaName aka liquibase.schemaName found
+[2024-01-26 12:39:56] FINE [liquibase.configuration] No configuration value for liquibase.databaseClass found
+[2024-01-26 12:39:56] FINE [liquibase.configuration] No configuration value for liquibase.propertyProviderClass found
+[2024-01-26 12:39:56] FINE [liquibase.configuration] No configuration value for liquibase.liquibaseTablespaceName aka liquibase.databaseChangeLogTablespaceName aka liquibase.liquibaseTableSpaceName found
+[2024-01-26 12:39:56] FINE [liquibase.configuration] No configuration value for liquibase.databaseChangelogLockTableName aka liquibase.databaseChangeLogLockTableName found
+[2024-01-26 12:39:56] FINE [liquibase.configuration] Configuration liquibase.databaseChangelogLockTableName is using the default value of DATABASECHANGELOGLOCK
+[2024-01-26 12:39:56] FINE [liquibase.configuration] No configuration value for liquibase.databaseChangelogTableName aka liquibase.databaseChangeLogTableName found
+[2024-01-26 12:39:56] FINE [liquibase.configuration] Configuration liquibase.databaseChangelogTableName is using the default value of DATABASECHANGELOG
+[2024-01-26 12:39:56] FINE [liquibase.database] Properties:
+[2024-01-26 12:39:56] FINE [liquibase.database] Key:'password' Value:'**********'
+[2024-01-26 12:39:56] FINE [liquibase.database] Key:'user' Value:'sa'
+[2024-01-26 12:39:56] FINE [liquibase.database] Connecting to the URL:'jdbc:sqlserver://DESKTOP-F22LNIE;portNumber=1433;databaseName=test;integratedSecurity=true;encrypt=true;trustServerCertificate=true;' using driver:'com.microsoft.sqlserver.jdbc.SQLServerDriver'
+[2024-01-26 12:39:56] FINE [liquibase.servicelocator] Loaded liquibase.database.DatabaseConnection instance liquibase.database.jvm.JdbcConnection
+[2024-01-26 12:39:56] FINE [liquibase.servicelocator] Loaded liquibase.database.DatabaseConnection instance com.datical.liquibase.ext.database.jvm.ProJdbcConnection
+[2024-01-26 12:40:26] INFO [liquibase.command] Command execution complete
+[2024-01-26 12:40:26] SEVERE [liquibase.integration] class java.lang.UnsatisfiedLinkError cannot be cast to class java.lang.Exception (java.lang.UnsatisfiedLinkError and java.lang.Exception are in module java.base of loader 'bootstrap')
+liquibase.exception.CommandExecutionException: java.lang.ClassCastException: class java.lang.UnsatisfiedLinkError cannot be cast to class java.lang.Exception (java.lang.UnsatisfiedLinkError and java.lang.Exception are in module java.base of loader 'bootstrap')
+	at liquibase.command.CommandScope.execute(CommandScope.java:253)
+	at liquibase.integration.commandline.CommandRunner.call(CommandRunner.java:55)
+	at liquibase.integration.commandline.CommandRunner.call(CommandRunner.java:24)
+	at picocli.CommandLine.executeUserObject(CommandLine.java:2041)
+	at picocli.CommandLine.access$1500(CommandLine.java:148)
+	at picocli.CommandLine$RunLast.executeUserObjectOfLastSubcommandWithSameParent(CommandLine.java:2461)
+	at picocli.CommandLine$RunLast.handle(CommandLine.java:2453)
+	at picocli.CommandLine$RunLast.handle(CommandLine.java:2415)
+	at picocli.CommandLine$AbstractParseResultHandler.execute(CommandLine.java:2273)
+	at picocli.CommandLine$RunLast.execute(CommandLine.java:2417)
+	at picocli.CommandLine.execute(CommandLine.java:2170)
+	at liquibase.integration.commandline.LiquibaseCommandLine.lambda$execute$2(LiquibaseCommandLine.java:391)
+	at liquibase.Scope.child(Scope.java:195)
+	at liquibase.Scope.child(Scope.java:171)
+	at liquibase.integration.commandline.LiquibaseCommandLine.lambda$execute$3(LiquibaseCommandLine.java:366)
+	at liquibase.Scope.child(Scope.java:195)
+	at liquibase.Scope.child(Scope.java:171)
+	at liquibase.integration.commandline.LiquibaseCommandLine.execute(LiquibaseCommandLine.java:363)
+	at liquibase.integration.commandline.LiquibaseCommandLine.main(LiquibaseCommandLine.java:103)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at liquibase.integration.commandline.LiquibaseLauncher.main(LiquibaseLauncher.java:116)
+Caused by: java.lang.ClassCastException: class java.lang.UnsatisfiedLinkError cannot be cast to class java.lang.Exception (java.lang.UnsatisfiedLinkError and java.lang.Exception are in module java.base of loader 'bootstrap')
+	at liquibase.command.CommandScope.logPrimaryExceptionToMdc(CommandScope.java:287)
+	at liquibase.command.CommandScope.execute(CommandScope.java:245)
+	... 23 more
+
+[2024-01-26 12:40:26] INFO [liquibase.ui] Logs saved to liquibase.log
+[2024-01-26 12:43:33] FINE [liquibase.resource] Creating resourceAccessor for directory D:\7994-RND-SQL\liquibase
+[2024-01-26 12:43:33] FINE [liquibase.configuration] No configuration value for liquibase.searchPath found
+[2024-01-26 12:43:33] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\liquibase-core.jar
+[2024-01-26 12:43:33] FINE [liquibase.resource] Creating resourceAccessor for directory C:\Program Files\liquibase\lib
+[2024-01-26 12:43:33] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\commons-collections4.jar
+[2024-01-26 12:43:33] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\commons-lang3.jar
+[2024-01-26 12:43:33] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\commons-text.jar
+[2024-01-26 12:43:33] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\h2.jar
+[2024-01-26 12:43:33] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\hsqldb.jar
+[2024-01-26 12:43:33] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\jaxb-api.jar
+[2024-01-26 12:43:33] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\jaxb-core.jar
+[2024-01-26 12:43:33] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\jaxb-runtime.jar
+[2024-01-26 12:43:33] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\jaybird.jar
+[2024-01-26 12:43:33] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\jcc.jar
+[2024-01-26 12:43:33] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\liquibase-commercial.jar
+[2024-01-26 12:43:33] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\mariadb-java-client.jar
+[2024-01-26 12:43:33] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\mssql-jdbc.jar
+[2024-01-26 12:43:33] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\ojdbc8.jar
+[2024-01-26 12:43:33] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\opencsv.jar
+[2024-01-26 12:43:33] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\picocli.jar
+[2024-01-26 12:43:33] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\postgresql.jar
+[2024-01-26 12:43:33] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\snakeyaml.jar
+[2024-01-26 12:43:33] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\snowflake-jdbc.jar
+[2024-01-26 12:43:33] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\sqlite-jdbc.jar
+[2024-01-26 12:43:33] FINE [liquibase.resource] Creating resourceAccessor for directory C:\Program Files\liquibase\internal\lib
+[2024-01-26 12:43:33] FINE [liquibase.resource] Overall search path: 
+  - D:\7994-RND-SQL\liquibase
+  - C:\Program Files\liquibase\internal\lib\liquibase-core.jar
+  - C:\Program Files\liquibase\lib
+  - C:\Program Files\liquibase\internal\lib\commons-collections4.jar
+  - C:\Program Files\liquibase\internal\lib\commons-lang3.jar
+  - C:\Program Files\liquibase\internal\lib\commons-text.jar
+  - C:\Program Files\liquibase\internal\lib\h2.jar
+  - C:\Program Files\liquibase\internal\lib\hsqldb.jar
+  - C:\Program Files\liquibase\internal\lib\jaxb-api.jar
+  - C:\Program Files\liquibase\internal\lib\jaxb-core.jar
+  - C:\Program Files\liquibase\internal\lib\jaxb-runtime.jar
+  - C:\Program Files\liquibase\internal\lib\jaybird.jar
+  - C:\Program Files\liquibase\internal\lib\jcc.jar
+  - C:\Program Files\liquibase\internal\lib\liquibase-commercial.jar
+  - C:\Program Files\liquibase\internal\lib\mariadb-java-client.jar
+  - C:\Program Files\liquibase\internal\lib\mssql-jdbc.jar
+  - C:\Program Files\liquibase\internal\lib\ojdbc8.jar
+  - C:\Program Files\liquibase\internal\lib\opencsv.jar
+  - C:\Program Files\liquibase\internal\lib\picocli.jar
+  - C:\Program Files\liquibase\internal\lib\postgresql.jar
+  - C:\Program Files\liquibase\internal\lib\snakeyaml.jar
+  - C:\Program Files\liquibase\internal\lib\snowflake-jdbc.jar
+  - C:\Program Files\liquibase\internal\lib\sqlite-jdbc.jar
+  - C:\Program Files\liquibase\internal\lib
+[2024-01-26 12:43:33] FINE [liquibase.configuration] No configuration value for liquibase.uiService found
+[2024-01-26 12:43:33] FINE [liquibase.configuration] Configuration liquibase.uiService is using the default value of CONSOLE
+[2024-01-26 12:43:33] FINE [liquibase.configuration] No configuration value for liquibase.mirrorConsoleMessagesToLog found
+[2024-01-26 12:43:33] FINE [liquibase.configuration] Configuration liquibase.mirrorConsoleMessagesToLog is using the default value of true
+[2024-01-26 12:43:33] FINE [liquibase.configuration] No configuration value for liquibase.shouldRun aka should.run found
+[2024-01-26 12:43:33] FINE [liquibase.configuration] Configuration liquibase.shouldRun is using the default value of true
+[2024-01-26 12:43:33] FINE [liquibase.configuration] No configuration value for liquibase.showBanner found
+[2024-01-26 12:43:33] FINE [liquibase.configuration] Configuration liquibase.showBanner is using the default value of true
+[2024-01-26 12:43:33] INFO [liquibase.ui] ####################################################
+##   _     _             _ _                      ##
+##  | |   (_)           (_) |                     ##
+##  | |    _  __ _ _   _ _| |__   __ _ ___  ___   ##
+##  | |   | |/ _` | | | | | '_ \ / _` / __|/ _ \  ##
+##  | |___| | (_| | |_| | | |_) | (_| \__ \  __/  ##
+##  \_____/_|\__, |\__,_|_|_.__/ \__,_|___/\___|  ##
+##              | |                               ##
+##              |_|                               ##
+##                                                ## 
+##  Get documentation at docs.liquibase.com       ##
+##  Get certified courses at learn.liquibase.com  ## 
+##                                                ##
+####################################################
+Starting Liquibase at 12:43:33 (version 4.25.1 #690 built at 2023-12-18 16:29+0000)
+[2024-01-26 12:43:33] INFO [liquibase.ui] Liquibase Version: 4.25.1
+[2024-01-26 12:43:33] INFO [liquibase.ui] Liquibase Open Source 4.25.1 by Liquibase
+[2024-01-26 12:43:33] FINE [liquibase.configuration] No configuration value for liquibase.monitorPerformance found
+[2024-01-26 12:43:33] FINE [liquibase.configuration] Configuration liquibase.monitorPerformance is using the default value of false
+[2024-01-26 12:43:33] FINE [liquibase.integration] Performance monitoring disabled
+[2024-01-26 12:43:33] INFO [liquibase.integration] Starting command execution.
+[2024-01-26 12:43:33] FINE [liquibase.command] Found ProUpdateCommandStep override for UpdateCommandStep! Using ProUpdateCommandStep in pipeline.
+[2024-01-26 12:43:33] FINE [liquibase.configuration] No configuration value for liquibase.outputFile found
+[2024-01-26 12:43:33] FINE [liquibase.configuration] No configuration value for liquibase.strict found
+[2024-01-26 12:43:33] FINE [liquibase.configuration] Configuration liquibase.strict is using the default value of false
+[2024-01-26 12:43:33] FINE [liquibase.configuration] No configuration value for liquibase.command.update.changeExecListener found
+[2024-01-26 12:43:33] FINE [liquibase.configuration] No configuration value for liquibase.command.changeExecListener found
+[2024-01-26 12:43:33] FINE [liquibase.configuration] No configuration value for liquibase.command.update.changeExecListenerClass found
+[2024-01-26 12:43:33] FINE [liquibase.configuration] No configuration value for liquibase.command.changeExecListenerClass found
+[2024-01-26 12:43:33] FINE [liquibase.configuration] No configuration value for liquibase.command.update.changeExecListenerPropertiesFile found
+[2024-01-26 12:43:33] FINE [liquibase.configuration] No configuration value for liquibase.command.changeExecListenerPropertiesFile found
+[2024-01-26 12:43:33] FINE [liquibase.configuration] No configuration value for liquibase.command.update.changelogFile found
+[2024-01-26 12:43:33] FINE [liquibase.configuration] Found 'liquibase.command.changelogFile' configuration of 'example-changelog.xml'
+    file exists at path liquibase.properties 'changeLogFile' of 'example-changelog.xml'
+[2024-01-26 12:43:33] FINE [liquibase.configuration] No configuration value for liquibase.command.update.changelogParameters found
+[2024-01-26 12:43:33] FINE [liquibase.configuration] No configuration value for liquibase.command.changelogParameters found
+[2024-01-26 12:43:33] FINE [liquibase.configuration] No configuration value for liquibase.command.update.contextFilter aka liquibase.command.update.contexts found
+[2024-01-26 12:43:33] FINE [liquibase.configuration] No configuration value for liquibase.command.contextFilter aka liquibase.command.contexts found
+[2024-01-26 12:43:33] FINE [liquibase.configuration] No configuration value for liquibase.command.update.database found
+[2024-01-26 12:43:33] FINE [liquibase.configuration] No configuration value for liquibase.command.database found
+[2024-01-26 12:43:33] FINE [liquibase.configuration] No configuration value for liquibase.command.update.databaseChangelog found
+[2024-01-26 12:43:33] FINE [liquibase.configuration] No configuration value for liquibase.command.databaseChangelog found
+[2024-01-26 12:43:33] FINE [liquibase.configuration] No configuration value for liquibase.command.update.defaultCatalogName found
+[2024-01-26 12:43:33] FINE [liquibase.configuration] No configuration value for liquibase.command.defaultCatalogName found
+[2024-01-26 12:43:33] FINE [liquibase.configuration] No configuration value for liquibase.command.update.defaultSchemaName found
+[2024-01-26 12:43:33] FINE [liquibase.configuration] No configuration value for liquibase.command.defaultSchemaName found
+[2024-01-26 12:43:33] FINE [liquibase.configuration] No configuration value for liquibase.command.update.driver found
+[2024-01-26 12:43:33] FINE [liquibase.configuration] No configuration value for liquibase.command.driver found
+[2024-01-26 12:43:33] FINE [liquibase.configuration] No configuration value for liquibase.command.update.driverPropertiesFile found
+[2024-01-26 12:43:33] FINE [liquibase.configuration] No configuration value for liquibase.command.driverPropertiesFile found
+[2024-01-26 12:43:33] FINE [liquibase.configuration] No configuration value for liquibase.command.update.labelFilter aka liquibase.command.update.labels found
+[2024-01-26 12:43:33] FINE [liquibase.configuration] No configuration value for liquibase.command.labelFilter aka liquibase.command.labels found
+[2024-01-26 12:43:33] FINE [liquibase.configuration] No configuration value for liquibase.command.update.password found
+[2024-01-26 12:43:33] FINE [liquibase.configuration] Found 'liquibase.command.password' configuration of '*****'
+    file exists at path liquibase.properties 'liquibase.command.password' of '*****'
+[2024-01-26 12:43:33] FINE [liquibase.configuration] No configuration value for liquibase.command.update.reportEnabled aka liquibase.command.update.reportsEnabled found
+[2024-01-26 12:43:33] FINE [liquibase.configuration] No configuration value for liquibase.command.reportEnabled aka liquibase.command.reportsEnabled found
+[2024-01-26 12:43:33] FINE [liquibase.configuration] No configuration value for liquibase.command.update.reportFormat aka liquibase.command.update.reportsFormat found
+[2024-01-26 12:43:33] FINE [liquibase.configuration] No configuration value for liquibase.command.reportFormat aka liquibase.command.reportsFormat found
+[2024-01-26 12:43:33] FINE [liquibase.configuration] No configuration value for liquibase.command.update.reportName aka liquibase.command.update.reportsName found
+[2024-01-26 12:43:33] FINE [liquibase.configuration] No configuration value for liquibase.command.reportName aka liquibase.command.reportsName found
+[2024-01-26 12:43:33] FINE [liquibase.configuration] No configuration value for liquibase.command.update.reportPath aka liquibase.command.update.reportsPath found
+[2024-01-26 12:43:33] FINE [liquibase.configuration] No configuration value for liquibase.command.reportPath aka liquibase.command.reportsPath found
+[2024-01-26 12:43:33] FINE [liquibase.configuration] No configuration value for liquibase.command.update.rollbackOnError found
+[2024-01-26 12:43:33] FINE [liquibase.configuration] Configuration liquibase.command.update.rollbackOnError is using the default value of false
+[2024-01-26 12:43:33] FINE [liquibase.configuration] No configuration value for liquibase.command.rollbackOnError found
+[2024-01-26 12:43:33] FINE [liquibase.configuration] Configuration liquibase.command.rollbackOnError is using the default value of false
+[2024-01-26 12:43:33] FINE [liquibase.configuration] No configuration value for liquibase.command.update.showSummary found
+[2024-01-26 12:43:33] FINE [liquibase.configuration] Configuration liquibase.command.update.showSummary is using the default value of SUMMARY
+[2024-01-26 12:43:33] FINE [liquibase.configuration] No configuration value for liquibase.command.showSummary found
+[2024-01-26 12:43:33] FINE [liquibase.configuration] Configuration liquibase.command.showSummary is using the default value of SUMMARY
+[2024-01-26 12:43:33] FINE [liquibase.configuration] No configuration value for liquibase.command.update.showSummaryOutput found
+[2024-01-26 12:43:33] FINE [liquibase.configuration] Configuration liquibase.command.update.showSummaryOutput is using the default value of ALL
+[2024-01-26 12:43:33] FINE [liquibase.configuration] No configuration value for liquibase.command.showSummaryOutput found
+[2024-01-26 12:43:33] FINE [liquibase.configuration] Configuration liquibase.command.showSummaryOutput is using the default value of ALL
+[2024-01-26 12:43:33] FINE [liquibase.configuration] No configuration value for liquibase.command.update.skipDatabaseStep found
+[2024-01-26 12:43:33] FINE [liquibase.configuration] Configuration liquibase.command.update.skipDatabaseStep is using the default value of false
+[2024-01-26 12:43:33] FINE [liquibase.configuration] No configuration value for liquibase.command.skipDatabaseStep found
+[2024-01-26 12:43:33] FINE [liquibase.configuration] Configuration liquibase.command.skipDatabaseStep is using the default value of false
+[2024-01-26 12:43:33] FINE [liquibase.configuration] No configuration value for liquibase.command.update.updateNullChecksums found
+[2024-01-26 12:43:33] FINE [liquibase.configuration] Configuration liquibase.command.update.updateNullChecksums is using the default value of false
+[2024-01-26 12:43:33] FINE [liquibase.configuration] No configuration value for liquibase.command.updateNullChecksums found
+[2024-01-26 12:43:33] FINE [liquibase.configuration] Configuration liquibase.command.updateNullChecksums is using the default value of false
+[2024-01-26 12:43:33] FINE [liquibase.configuration] No configuration value for liquibase.command.update.url found
+[2024-01-26 12:43:33] FINE [liquibase.servicelocator] Loaded liquibase.database.jvm.ConnectionPatterns instance liquibase.database.jvm.JdbcConnectionPatterns
+[2024-01-26 12:43:33] FINE [liquibase.configuration] Found 'liquibase.command.url' configuration of 'jdbc:sqlserver://DESKTOP-F22LNIE;portNumber=1433;databaseName=test;integratedSecurity=true;encrypt=true;trustServerCertificate=true;'
+    file exists at path liquibase.properties 'liquibase.command.url' of '*****'
+[2024-01-26 12:43:33] FINE [liquibase.configuration] No configuration value for liquibase.command.update.username found
+[2024-01-26 12:43:33] FINE [liquibase.configuration] Found 'liquibase.command.username' configuration of 'sa'
+    file exists at path liquibase.properties 'liquibase.command.username' of 'sa'
+[2024-01-26 12:43:33] FINE [liquibase.command] Pipeline for command 'update: liquibase.command.core.helpers.DbUrlConnectionArgumentsCommandStep then liquibase.command.core.helpers.ShowSummaryArgument then com.datical.liquibase.ext.command.helpers.RollbackOnErrorArgument then com.datical.liquibase.ext.command.helpers.VisibleReportCommandArguments then liquibase.command.core.helpers.DbUrlConnectionCommandStep then liquibase.command.core.helpers.DatabaseChangelogCommandStep then liquibase.command.core.helpers.ChangeExecListenerCommandStep then com.datical.liquibase.ext.command.ProUpdateCommandStep
+[2024-01-26 12:43:33] FINE [liquibase.configuration] No configuration value for liquibase.outputFileEncoding found
+[2024-01-26 12:43:33] FINE [liquibase.configuration] Configuration liquibase.outputFileEncoding is using the default value of UTF-8
+[2024-01-26 12:43:33] FINE [liquibase.command] Writing output with encoding 'UTF-8'
+[2024-01-26 12:43:33] FINE [liquibase.command] Executing internal command dbUrlConnectionArguments
+[2024-01-26 12:43:33] FINE [liquibase.command] Executing internal command showSummary
+[2024-01-26 12:43:33] FINE [liquibase.configuration] Configuration liquibase.command.update.showSummary is using the default value of SUMMARY
+[2024-01-26 12:43:33] FINE [liquibase.configuration] Configuration liquibase.command.showSummary is using the default value of SUMMARY
+[2024-01-26 12:43:33] FINE [liquibase.configuration] Configuration liquibase.command.update.showSummaryOutput is using the default value of ALL
+[2024-01-26 12:43:33] FINE [liquibase.configuration] Configuration liquibase.command.showSummaryOutput is using the default value of ALL
+[2024-01-26 12:43:33] FINE [liquibase.command] Executing internal command rollbackOnError
+[2024-01-26 12:43:33] FINE [liquibase.configuration] Configuration liquibase.command.update.rollbackOnError is using the default value of false
+[2024-01-26 12:43:33] FINE [liquibase.configuration] Configuration liquibase.command.rollbackOnError is using the default value of false
+[2024-01-26 12:43:33] FINE [liquibase.command] Executing internal command reportvisible
+[2024-01-26 12:43:33] FINE [liquibase.configuration] No configuration value for liquibase.reports.enabled aka liquibase.report.enabled found
+[2024-01-26 12:43:33] FINE [liquibase.configuration] Configuration liquibase.reports.enabled is using the default value of false
+[2024-01-26 12:43:33] FINE [liquibase.configuration] No configuration value for liquibase.reports.name aka liquibase.report.name found
+[2024-01-26 12:43:33] FINE [liquibase.configuration] Configuration liquibase.reports.name is using the default value of report-dd-MMM-yyyy-HHmmss
+[2024-01-26 12:43:33] FINE [liquibase.configuration] No configuration value for liquibase.reports.path aka liquibase.report.path found
+[2024-01-26 12:43:33] FINE [liquibase.configuration] Configuration liquibase.reports.path is using the default value of .
+[2024-01-26 12:43:33] FINE [liquibase.configuration] No configuration value for liquibase.reports.format aka liquibase.report.format found
+[2024-01-26 12:43:33] FINE [liquibase.configuration] Configuration liquibase.reports.format is using the default value of HTML
+[2024-01-26 12:43:33] FINE [liquibase.command] Executing internal command dbUrlConnectionCommandStep
+[2024-01-26 12:43:33] FINE [liquibase.configuration] Configuration liquibase.command.update.skipDatabaseStep is using the default value of false
+[2024-01-26 12:43:33] FINE [liquibase.configuration] Configuration liquibase.command.skipDatabaseStep is using the default value of false
+[2024-01-26 12:43:33] FINE [liquibase.configuration] No configuration value for liquibase.liquibaseCatalogName aka liquibase.catalogName found
+[2024-01-26 12:43:33] FINE [liquibase.configuration] No configuration value for liquibase.liquibaseSchemaName aka liquibase.schemaName found
+[2024-01-26 12:43:33] FINE [liquibase.configuration] No configuration value for liquibase.databaseClass found
+[2024-01-26 12:43:33] FINE [liquibase.configuration] No configuration value for liquibase.propertyProviderClass found
+[2024-01-26 12:43:33] FINE [liquibase.configuration] No configuration value for liquibase.liquibaseTablespaceName aka liquibase.databaseChangeLogTablespaceName aka liquibase.liquibaseTableSpaceName found
+[2024-01-26 12:43:33] FINE [liquibase.configuration] No configuration value for liquibase.databaseChangelogLockTableName aka liquibase.databaseChangeLogLockTableName found
+[2024-01-26 12:43:33] FINE [liquibase.configuration] Configuration liquibase.databaseChangelogLockTableName is using the default value of DATABASECHANGELOGLOCK
+[2024-01-26 12:43:33] FINE [liquibase.configuration] No configuration value for liquibase.databaseChangelogTableName aka liquibase.databaseChangeLogTableName found
+[2024-01-26 12:43:33] FINE [liquibase.configuration] Configuration liquibase.databaseChangelogTableName is using the default value of DATABASECHANGELOG
+[2024-01-26 12:43:33] FINE [liquibase.database] Properties:
+[2024-01-26 12:43:33] FINE [liquibase.database] Key:'password' Value:'**********'
+[2024-01-26 12:43:33] FINE [liquibase.database] Key:'user' Value:'sa'
+[2024-01-26 12:43:33] FINE [liquibase.database] Connecting to the URL:'jdbc:sqlserver://DESKTOP-F22LNIE;portNumber=1433;databaseName=test;integratedSecurity=true;encrypt=true;trustServerCertificate=true;' using driver:'com.microsoft.sqlserver.jdbc.SQLServerDriver'
+[2024-01-26 12:43:33] FINE [liquibase.servicelocator] Loaded liquibase.database.DatabaseConnection instance liquibase.database.jvm.JdbcConnection
+[2024-01-26 12:43:33] FINE [liquibase.servicelocator] Loaded liquibase.database.DatabaseConnection instance com.datical.liquibase.ext.database.jvm.ProJdbcConnection
+[2024-01-26 12:44:03] INFO [liquibase.command] Command execution complete
+[2024-01-26 12:44:03] SEVERE [liquibase.integration] class java.lang.UnsatisfiedLinkError cannot be cast to class java.lang.Exception (java.lang.UnsatisfiedLinkError and java.lang.Exception are in module java.base of loader 'bootstrap')
+liquibase.exception.CommandExecutionException: java.lang.ClassCastException: class java.lang.UnsatisfiedLinkError cannot be cast to class java.lang.Exception (java.lang.UnsatisfiedLinkError and java.lang.Exception are in module java.base of loader 'bootstrap')
+	at liquibase.command.CommandScope.execute(CommandScope.java:253)
+	at liquibase.integration.commandline.CommandRunner.call(CommandRunner.java:55)
+	at liquibase.integration.commandline.CommandRunner.call(CommandRunner.java:24)
+	at picocli.CommandLine.executeUserObject(CommandLine.java:2041)
+	at picocli.CommandLine.access$1500(CommandLine.java:148)
+	at picocli.CommandLine$RunLast.executeUserObjectOfLastSubcommandWithSameParent(CommandLine.java:2461)
+	at picocli.CommandLine$RunLast.handle(CommandLine.java:2453)
+	at picocli.CommandLine$RunLast.handle(CommandLine.java:2415)
+	at picocli.CommandLine$AbstractParseResultHandler.execute(CommandLine.java:2273)
+	at picocli.CommandLine$RunLast.execute(CommandLine.java:2417)
+	at picocli.CommandLine.execute(CommandLine.java:2170)
+	at liquibase.integration.commandline.LiquibaseCommandLine.lambda$execute$2(LiquibaseCommandLine.java:391)
+	at liquibase.Scope.child(Scope.java:195)
+	at liquibase.Scope.child(Scope.java:171)
+	at liquibase.integration.commandline.LiquibaseCommandLine.lambda$execute$3(LiquibaseCommandLine.java:366)
+	at liquibase.Scope.child(Scope.java:195)
+	at liquibase.Scope.child(Scope.java:171)
+	at liquibase.integration.commandline.LiquibaseCommandLine.execute(LiquibaseCommandLine.java:363)
+	at liquibase.integration.commandline.LiquibaseCommandLine.main(LiquibaseCommandLine.java:103)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at liquibase.integration.commandline.LiquibaseLauncher.main(LiquibaseLauncher.java:116)
+Caused by: java.lang.ClassCastException: class java.lang.UnsatisfiedLinkError cannot be cast to class java.lang.Exception (java.lang.UnsatisfiedLinkError and java.lang.Exception are in module java.base of loader 'bootstrap')
+	at liquibase.command.CommandScope.logPrimaryExceptionToMdc(CommandScope.java:287)
+	at liquibase.command.CommandScope.execute(CommandScope.java:245)
+	... 23 more
+
+[2024-01-26 12:44:03] INFO [liquibase.ui] Logs saved to liquibase.log
+[2024-01-26 12:46:15] FINE [liquibase.resource] Creating resourceAccessor for directory D:\7994-RND-SQL\liquibase
+[2024-01-26 12:46:15] FINE [liquibase.configuration] No configuration value for liquibase.searchPath found
+[2024-01-26 12:46:15] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\liquibase-core.jar
+[2024-01-26 12:46:15] FINE [liquibase.resource] Creating resourceAccessor for directory C:\Program Files\liquibase\lib
+[2024-01-26 12:46:15] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\commons-collections4.jar
+[2024-01-26 12:46:15] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\commons-lang3.jar
+[2024-01-26 12:46:15] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\commons-text.jar
+[2024-01-26 12:46:15] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\h2.jar
+[2024-01-26 12:46:15] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\hsqldb.jar
+[2024-01-26 12:46:15] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\jaxb-api.jar
+[2024-01-26 12:46:15] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\jaxb-core.jar
+[2024-01-26 12:46:15] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\jaxb-runtime.jar
+[2024-01-26 12:46:15] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\jaybird.jar
+[2024-01-26 12:46:15] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\jcc.jar
+[2024-01-26 12:46:15] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\liquibase-commercial.jar
+[2024-01-26 12:46:15] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\mariadb-java-client.jar
+[2024-01-26 12:46:15] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\mssql-jdbc.jar
+[2024-01-26 12:46:15] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\ojdbc8.jar
+[2024-01-26 12:46:15] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\opencsv.jar
+[2024-01-26 12:46:15] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\picocli.jar
+[2024-01-26 12:46:15] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\postgresql.jar
+[2024-01-26 12:46:15] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\snakeyaml.jar
+[2024-01-26 12:46:15] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\snowflake-jdbc.jar
+[2024-01-26 12:46:15] FINE [liquibase.resource] Creating resourceAccessor for file C:\Program Files\liquibase\internal\lib\sqlite-jdbc.jar
+[2024-01-26 12:46:15] FINE [liquibase.resource] Creating resourceAccessor for directory C:\Program Files\liquibase\internal\lib
+[2024-01-26 12:46:15] FINE [liquibase.resource] Overall search path: 
+  - D:\7994-RND-SQL\liquibase
+  - C:\Program Files\liquibase\internal\lib\liquibase-core.jar
+  - C:\Program Files\liquibase\lib
+  - C:\Program Files\liquibase\internal\lib\commons-collections4.jar
+  - C:\Program Files\liquibase\internal\lib\commons-lang3.jar
+  - C:\Program Files\liquibase\internal\lib\commons-text.jar
+  - C:\Program Files\liquibase\internal\lib\h2.jar
+  - C:\Program Files\liquibase\internal\lib\hsqldb.jar
+  - C:\Program Files\liquibase\internal\lib\jaxb-api.jar
+  - C:\Program Files\liquibase\internal\lib\jaxb-core.jar
+  - C:\Program Files\liquibase\internal\lib\jaxb-runtime.jar
+  - C:\Program Files\liquibase\internal\lib\jaybird.jar
+  - C:\Program Files\liquibase\internal\lib\jcc.jar
+  - C:\Program Files\liquibase\internal\lib\liquibase-commercial.jar
+  - C:\Program Files\liquibase\internal\lib\mariadb-java-client.jar
+  - C:\Program Files\liquibase\internal\lib\mssql-jdbc.jar
+  - C:\Program Files\liquibase\internal\lib\ojdbc8.jar
+  - C:\Program Files\liquibase\internal\lib\opencsv.jar
+  - C:\Program Files\liquibase\internal\lib\picocli.jar
+  - C:\Program Files\liquibase\internal\lib\postgresql.jar
+  - C:\Program Files\liquibase\internal\lib\snakeyaml.jar
+  - C:\Program Files\liquibase\internal\lib\snowflake-jdbc.jar
+  - C:\Program Files\liquibase\internal\lib\sqlite-jdbc.jar
+  - C:\Program Files\liquibase\internal\lib
+[2024-01-26 12:46:15] FINE [liquibase.configuration] No configuration value for liquibase.uiService found
+[2024-01-26 12:46:15] FINE [liquibase.configuration] Configuration liquibase.uiService is using the default value of CONSOLE
+[2024-01-26 12:46:15] FINE [liquibase.configuration] No configuration value for liquibase.mirrorConsoleMessagesToLog found
+[2024-01-26 12:46:15] FINE [liquibase.configuration] Configuration liquibase.mirrorConsoleMessagesToLog is using the default value of true
+[2024-01-26 12:46:15] FINE [liquibase.configuration] No configuration value for liquibase.shouldRun aka should.run found
+[2024-01-26 12:46:15] FINE [liquibase.configuration] Configuration liquibase.shouldRun is using the default value of true
+[2024-01-26 12:46:15] FINE [liquibase.configuration] No configuration value for liquibase.showBanner found
+[2024-01-26 12:46:15] FINE [liquibase.configuration] Configuration liquibase.showBanner is using the default value of true
+[2024-01-26 12:46:15] INFO [liquibase.ui] ####################################################
+##   _     _             _ _                      ##
+##  | |   (_)           (_) |                     ##
+##  | |    _  __ _ _   _ _| |__   __ _ ___  ___   ##
+##  | |   | |/ _` | | | | | '_ \ / _` / __|/ _ \  ##
+##  | |___| | (_| | |_| | | |_) | (_| \__ \  __/  ##
+##  \_____/_|\__, |\__,_|_|_.__/ \__,_|___/\___|  ##
+##              | |                               ##
+##              |_|                               ##
+##                                                ## 
+##  Get documentation at docs.liquibase.com       ##
+##  Get certified courses at learn.liquibase.com  ## 
+##                                                ##
+####################################################
+Starting Liquibase at 12:46:15 (version 4.25.1 #690 built at 2023-12-18 16:29+0000)
+[2024-01-26 12:46:15] INFO [liquibase.ui] Liquibase Version: 4.25.1
+[2024-01-26 12:46:15] INFO [liquibase.ui] Liquibase Open Source 4.25.1 by Liquibase
+[2024-01-26 12:46:15] FINE [liquibase.configuration] No configuration value for liquibase.monitorPerformance found
+[2024-01-26 12:46:15] FINE [liquibase.configuration] Configuration liquibase.monitorPerformance is using the default value of false
+[2024-01-26 12:46:15] FINE [liquibase.integration] Performance monitoring disabled
+[2024-01-26 12:46:15] INFO [liquibase.integration] Starting command execution.
+[2024-01-26 12:46:15] FINE [liquibase.command] Found ProUpdateCommandStep override for UpdateCommandStep! Using ProUpdateCommandStep in pipeline.
+[2024-01-26 12:46:15] FINE [liquibase.configuration] No configuration value for liquibase.outputFile found
+[2024-01-26 12:46:15] FINE [liquibase.configuration] No configuration value for liquibase.strict found
+[2024-01-26 12:46:15] FINE [liquibase.configuration] Configuration liquibase.strict is using the default value of false
+[2024-01-26 12:46:15] FINE [liquibase.configuration] No configuration value for liquibase.command.update.changeExecListener found
+[2024-01-26 12:46:15] FINE [liquibase.configuration] No configuration value for liquibase.command.changeExecListener found
+[2024-01-26 12:46:15] FINE [liquibase.configuration] No configuration value for liquibase.command.update.changeExecListenerClass found
+[2024-01-26 12:46:15] FINE [liquibase.configuration] No configuration value for liquibase.command.changeExecListenerClass found
+[2024-01-26 12:46:15] FINE [liquibase.configuration] No configuration value for liquibase.command.update.changeExecListenerPropertiesFile found
+[2024-01-26 12:46:15] FINE [liquibase.configuration] No configuration value for liquibase.command.changeExecListenerPropertiesFile found
+[2024-01-26 12:46:15] FINE [liquibase.configuration] No configuration value for liquibase.command.update.changelogFile found
+[2024-01-26 12:46:15] FINE [liquibase.configuration] Found 'liquibase.command.changelogFile' configuration of 'example-changeLog.sql'
+    command argument '--changelog-file' of 'example-changeLog.sql'
+    Overrides file exists at path liquibase.properties 'changeLogFile' of 'example-changelog.xml'
+[2024-01-26 12:46:15] FINE [liquibase.configuration] No configuration value for liquibase.command.update.changelogParameters found
+[2024-01-26 12:46:15] FINE [liquibase.configuration] No configuration value for liquibase.command.changelogParameters found
+[2024-01-26 12:46:15] FINE [liquibase.configuration] No configuration value for liquibase.command.update.contextFilter aka liquibase.command.update.contexts found
+[2024-01-26 12:46:15] FINE [liquibase.configuration] No configuration value for liquibase.command.contextFilter aka liquibase.command.contexts found
+[2024-01-26 12:46:15] FINE [liquibase.configuration] No configuration value for liquibase.command.update.database found
+[2024-01-26 12:46:15] FINE [liquibase.configuration] No configuration value for liquibase.command.database found
+[2024-01-26 12:46:15] FINE [liquibase.configuration] No configuration value for liquibase.command.update.databaseChangelog found
+[2024-01-26 12:46:15] FINE [liquibase.configuration] No configuration value for liquibase.command.databaseChangelog found
+[2024-01-26 12:46:15] FINE [liquibase.configuration] No configuration value for liquibase.command.update.defaultCatalogName found
+[2024-01-26 12:46:15] FINE [liquibase.configuration] No configuration value for liquibase.command.defaultCatalogName found
+[2024-01-26 12:46:15] FINE [liquibase.configuration] No configuration value for liquibase.command.update.defaultSchemaName found
+[2024-01-26 12:46:15] FINE [liquibase.configuration] No configuration value for liquibase.command.defaultSchemaName found
+[2024-01-26 12:46:15] FINE [liquibase.configuration] No configuration value for liquibase.command.update.driver found
+[2024-01-26 12:46:15] FINE [liquibase.configuration] No configuration value for liquibase.command.driver found
+[2024-01-26 12:46:15] FINE [liquibase.configuration] No configuration value for liquibase.command.update.driverPropertiesFile found
+[2024-01-26 12:46:15] FINE [liquibase.configuration] No configuration value for liquibase.command.driverPropertiesFile found
+[2024-01-26 12:46:15] FINE [liquibase.configuration] No configuration value for liquibase.command.update.labelFilter aka liquibase.command.update.labels found
+[2024-01-26 12:46:15] FINE [liquibase.configuration] No configuration value for liquibase.command.labelFilter aka liquibase.command.labels found
+[2024-01-26 12:46:15] FINE [liquibase.configuration] No configuration value for liquibase.command.update.password found
+[2024-01-26 12:46:15] FINE [liquibase.configuration] Found 'liquibase.command.password' configuration of '*****'
+    command argument '--password' of '*****'
+    Overrides file exists at path liquibase.properties 'liquibase.command.password' of '*****'
+[2024-01-26 12:46:15] FINE [liquibase.configuration] No configuration value for liquibase.command.update.reportEnabled aka liquibase.command.update.reportsEnabled found
+[2024-01-26 12:46:15] FINE [liquibase.configuration] No configuration value for liquibase.command.reportEnabled aka liquibase.command.reportsEnabled found
+[2024-01-26 12:46:15] FINE [liquibase.configuration] No configuration value for liquibase.command.update.reportFormat aka liquibase.command.update.reportsFormat found
+[2024-01-26 12:46:15] FINE [liquibase.configuration] No configuration value for liquibase.command.reportFormat aka liquibase.command.reportsFormat found
+[2024-01-26 12:46:15] FINE [liquibase.configuration] No configuration value for liquibase.command.update.reportName aka liquibase.command.update.reportsName found
+[2024-01-26 12:46:15] FINE [liquibase.configuration] No configuration value for liquibase.command.reportName aka liquibase.command.reportsName found
+[2024-01-26 12:46:15] FINE [liquibase.configuration] No configuration value for liquibase.command.update.reportPath aka liquibase.command.update.reportsPath found
+[2024-01-26 12:46:15] FINE [liquibase.configuration] No configuration value for liquibase.command.reportPath aka liquibase.command.reportsPath found
+[2024-01-26 12:46:15] FINE [liquibase.configuration] No configuration value for liquibase.command.update.rollbackOnError found
+[2024-01-26 12:46:15] FINE [liquibase.configuration] Configuration liquibase.command.update.rollbackOnError is using the default value of false
+[2024-01-26 12:46:15] FINE [liquibase.configuration] No configuration value for liquibase.command.rollbackOnError found
+[2024-01-26 12:46:15] FINE [liquibase.configuration] Configuration liquibase.command.rollbackOnError is using the default value of false
+[2024-01-26 12:46:15] FINE [liquibase.configuration] No configuration value for liquibase.command.update.showSummary found
+[2024-01-26 12:46:15] FINE [liquibase.configuration] Configuration liquibase.command.update.showSummary is using the default value of SUMMARY
+[2024-01-26 12:46:15] FINE [liquibase.configuration] No configuration value for liquibase.command.showSummary found
+[2024-01-26 12:46:15] FINE [liquibase.configuration] Configuration liquibase.command.showSummary is using the default value of SUMMARY
+[2024-01-26 12:46:15] FINE [liquibase.configuration] No configuration value for liquibase.command.update.showSummaryOutput found
+[2024-01-26 12:46:15] FINE [liquibase.configuration] Configuration liquibase.command.update.showSummaryOutput is using the default value of ALL
+[2024-01-26 12:46:15] FINE [liquibase.configuration] No configuration value for liquibase.command.showSummaryOutput found
+[2024-01-26 12:46:15] FINE [liquibase.configuration] Configuration liquibase.command.showSummaryOutput is using the default value of ALL
+[2024-01-26 12:46:15] FINE [liquibase.configuration] No configuration value for liquibase.command.update.skipDatabaseStep found
+[2024-01-26 12:46:15] FINE [liquibase.configuration] Configuration liquibase.command.update.skipDatabaseStep is using the default value of false
+[2024-01-26 12:46:15] FINE [liquibase.configuration] No configuration value for liquibase.command.skipDatabaseStep found
+[2024-01-26 12:46:15] FINE [liquibase.configuration] Configuration liquibase.command.skipDatabaseStep is using the default value of false
+[2024-01-26 12:46:15] FINE [liquibase.configuration] No configuration value for liquibase.command.update.updateNullChecksums found
+[2024-01-26 12:46:15] FINE [liquibase.configuration] Configuration liquibase.command.update.updateNullChecksums is using the default value of false
+[2024-01-26 12:46:15] FINE [liquibase.configuration] No configuration value for liquibase.command.updateNullChecksums found
+[2024-01-26 12:46:15] FINE [liquibase.configuration] Configuration liquibase.command.updateNullChecksums is using the default value of false
+[2024-01-26 12:46:15] FINE [liquibase.configuration] No configuration value for liquibase.command.update.url found
+[2024-01-26 12:46:15] FINE [liquibase.servicelocator] Loaded liquibase.database.jvm.ConnectionPatterns instance liquibase.database.jvm.JdbcConnectionPatterns
+[2024-01-26 12:46:15] FINE [liquibase.configuration] Found 'liquibase.command.url' configuration of 'jdbc:sqlserver://DESKTOP-F22LNIE;portNumber=1433;databaseName=test;integratedSecurity=true;encrypt=true;trustServerCertificate=true;'
+    file exists at path liquibase.properties 'liquibase.command.url' of '*****'
+[2024-01-26 12:46:15] FINE [liquibase.configuration] No configuration value for liquibase.command.update.username found
+[2024-01-26 12:46:15] FINE [liquibase.configuration] Found 'liquibase.command.username' configuration of 'sa'
+    command argument '--username' of 'sa'
+    Overrides file exists at path liquibase.properties 'liquibase.command.username' of 'sa'
+[2024-01-26 12:46:15] FINE [liquibase.command] Pipeline for command 'update: liquibase.command.core.helpers.DbUrlConnectionArgumentsCommandStep then liquibase.command.core.helpers.ShowSummaryArgument then com.datical.liquibase.ext.command.helpers.RollbackOnErrorArgument then com.datical.liquibase.ext.command.helpers.VisibleReportCommandArguments then liquibase.command.core.helpers.DbUrlConnectionCommandStep then liquibase.command.core.helpers.DatabaseChangelogCommandStep then liquibase.command.core.helpers.ChangeExecListenerCommandStep then com.datical.liquibase.ext.command.ProUpdateCommandStep
+[2024-01-26 12:46:15] FINE [liquibase.configuration] No configuration value for liquibase.outputFileEncoding found
+[2024-01-26 12:46:15] FINE [liquibase.configuration] Configuration liquibase.outputFileEncoding is using the default value of UTF-8
+[2024-01-26 12:46:15] FINE [liquibase.command] Writing output with encoding 'UTF-8'
+[2024-01-26 12:46:15] FINE [liquibase.command] Executing internal command dbUrlConnectionArguments
+[2024-01-26 12:46:15] FINE [liquibase.command] Executing internal command showSummary
+[2024-01-26 12:46:15] FINE [liquibase.configuration] Configuration liquibase.command.update.showSummary is using the default value of SUMMARY
+[2024-01-26 12:46:15] FINE [liquibase.configuration] Configuration liquibase.command.showSummary is using the default value of SUMMARY
+[2024-01-26 12:46:15] FINE [liquibase.configuration] Configuration liquibase.command.update.showSummaryOutput is using the default value of ALL
+[2024-01-26 12:46:15] FINE [liquibase.configuration] Configuration liquibase.command.showSummaryOutput is using the default value of ALL
+[2024-01-26 12:46:15] FINE [liquibase.command] Executing internal command rollbackOnError
+[2024-01-26 12:46:15] FINE [liquibase.configuration] Configuration liquibase.command.update.rollbackOnError is using the default value of false
+[2024-01-26 12:46:15] FINE [liquibase.configuration] Configuration liquibase.command.rollbackOnError is using the default value of false
+[2024-01-26 12:46:15] FINE [liquibase.command] Executing internal command reportvisible
+[2024-01-26 12:46:15] FINE [liquibase.configuration] No configuration value for liquibase.reports.enabled aka liquibase.report.enabled found
+[2024-01-26 12:46:15] FINE [liquibase.configuration] Configuration liquibase.reports.enabled is using the default value of false
+[2024-01-26 12:46:15] FINE [liquibase.configuration] No configuration value for liquibase.reports.name aka liquibase.report.name found
+[2024-01-26 12:46:15] FINE [liquibase.configuration] Configuration liquibase.reports.name is using the default value of report-dd-MMM-yyyy-HHmmss
+[2024-01-26 12:46:15] FINE [liquibase.configuration] No configuration value for liquibase.reports.path aka liquibase.report.path found
+[2024-01-26 12:46:15] FINE [liquibase.configuration] Configuration liquibase.reports.path is using the default value of .
+[2024-01-26 12:46:15] FINE [liquibase.configuration] No configuration value for liquibase.reports.format aka liquibase.report.format found
+[2024-01-26 12:46:15] FINE [liquibase.configuration] Configuration liquibase.reports.format is using the default value of HTML
+[2024-01-26 12:46:15] FINE [liquibase.command] Executing internal command dbUrlConnectionCommandStep
+[2024-01-26 12:46:15] FINE [liquibase.configuration] Configuration liquibase.command.update.skipDatabaseStep is using the default value of false
+[2024-01-26 12:46:15] FINE [liquibase.configuration] Configuration liquibase.command.skipDatabaseStep is using the default value of false
+[2024-01-26 12:46:15] FINE [liquibase.configuration] No configuration value for liquibase.liquibaseCatalogName aka liquibase.catalogName found
+[2024-01-26 12:46:15] FINE [liquibase.configuration] No configuration value for liquibase.liquibaseSchemaName aka liquibase.schemaName found
+[2024-01-26 12:46:15] FINE [liquibase.configuration] No configuration value for liquibase.databaseClass found
+[2024-01-26 12:46:15] FINE [liquibase.configuration] No configuration value for liquibase.propertyProviderClass found
+[2024-01-26 12:46:15] FINE [liquibase.configuration] No configuration value for liquibase.liquibaseTablespaceName aka liquibase.databaseChangeLogTablespaceName aka liquibase.liquibaseTableSpaceName found
+[2024-01-26 12:46:15] FINE [liquibase.configuration] No configuration value for liquibase.databaseChangelogLockTableName aka liquibase.databaseChangeLogLockTableName found
+[2024-01-26 12:46:15] FINE [liquibase.configuration] Configuration liquibase.databaseChangelogLockTableName is using the default value of DATABASECHANGELOGLOCK
+[2024-01-26 12:46:15] FINE [liquibase.configuration] No configuration value for liquibase.databaseChangelogTableName aka liquibase.databaseChangeLogTableName found
+[2024-01-26 12:46:15] FINE [liquibase.configuration] Configuration liquibase.databaseChangelogTableName is using the default value of DATABASECHANGELOG
+[2024-01-26 12:46:15] FINE [liquibase.database] Properties:
+[2024-01-26 12:46:15] FINE [liquibase.database] Key:'password' Value:'**********'
+[2024-01-26 12:46:15] FINE [liquibase.database] Key:'user' Value:'sa'
+[2024-01-26 12:46:15] FINE [liquibase.database] Connecting to the URL:'jdbc:sqlserver://DESKTOP-F22LNIE;portNumber=1433;databaseName=test;integratedSecurity=true;encrypt=true;trustServerCertificate=true;' using driver:'com.microsoft.sqlserver.jdbc.SQLServerDriver'
+[2024-01-26 12:46:15] FINE [liquibase.servicelocator] Loaded liquibase.database.DatabaseConnection instance liquibase.database.jvm.JdbcConnection
+[2024-01-26 12:46:15] FINE [liquibase.servicelocator] Loaded liquibase.database.DatabaseConnection instance com.datical.liquibase.ext.database.jvm.ProJdbcConnection
+[2024-01-26 12:46:45] INFO [liquibase.command] Command execution complete
+[2024-01-26 12:46:45] SEVERE [liquibase.integration] class java.lang.UnsatisfiedLinkError cannot be cast to class java.lang.Exception (java.lang.UnsatisfiedLinkError and java.lang.Exception are in module java.base of loader 'bootstrap')
+liquibase.exception.CommandExecutionException: java.lang.ClassCastException: class java.lang.UnsatisfiedLinkError cannot be cast to class java.lang.Exception (java.lang.UnsatisfiedLinkError and java.lang.Exception are in module java.base of loader 'bootstrap')
+	at liquibase.command.CommandScope.execute(CommandScope.java:253)
+	at liquibase.integration.commandline.CommandRunner.call(CommandRunner.java:55)
+	at liquibase.integration.commandline.CommandRunner.call(CommandRunner.java:24)
+	at picocli.CommandLine.executeUserObject(CommandLine.java:2041)
+	at picocli.CommandLine.access$1500(CommandLine.java:148)
+	at picocli.CommandLine$RunLast.executeUserObjectOfLastSubcommandWithSameParent(CommandLine.java:2461)
+	at picocli.CommandLine$RunLast.handle(CommandLine.java:2453)
+	at picocli.CommandLine$RunLast.handle(CommandLine.java:2415)
+	at picocli.CommandLine$AbstractParseResultHandler.execute(CommandLine.java:2273)
+	at picocli.CommandLine$RunLast.execute(CommandLine.java:2417)
+	at picocli.CommandLine.execute(CommandLine.java:2170)
+	at liquibase.integration.commandline.LiquibaseCommandLine.lambda$execute$2(LiquibaseCommandLine.java:391)
+	at liquibase.Scope.child(Scope.java:195)
+	at liquibase.Scope.child(Scope.java:171)
+	at liquibase.integration.commandline.LiquibaseCommandLine.lambda$execute$3(LiquibaseCommandLine.java:366)
+	at liquibase.Scope.child(Scope.java:195)
+	at liquibase.Scope.child(Scope.java:171)
+	at liquibase.integration.commandline.LiquibaseCommandLine.execute(LiquibaseCommandLine.java:363)
+	at liquibase.integration.commandline.LiquibaseCommandLine.main(LiquibaseCommandLine.java:103)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at liquibase.integration.commandline.LiquibaseLauncher.main(LiquibaseLauncher.java:116)
+Caused by: java.lang.ClassCastException: class java.lang.UnsatisfiedLinkError cannot be cast to class java.lang.Exception (java.lang.UnsatisfiedLinkError and java.lang.Exception are in module java.base of loader 'bootstrap')
+	at liquibase.command.CommandScope.logPrimaryExceptionToMdc(CommandScope.java:287)
+	at liquibase.command.CommandScope.execute(CommandScope.java:245)
+	... 23 more
+
+[2024-01-26 12:46:45] INFO [liquibase.ui] Logs saved to liquibase.log
